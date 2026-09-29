@@ -55,13 +55,10 @@ R008,7,5,szt,jabłka,,Owoce
 R008,8,0.66,szklanka,olej,,Sypkie
 R008,9,100,g,orzechy włoskie,,Warzywa
 R008,10,50,g,migdały,,Warzywa
-R009,1,1,kg,obranych ziemniaków - około 10 średnich ziemniaków,,Warzywa
-R009,2,2,,średnie lub małe jajka,,Nabiał
-R009,3,,,mała cebula - około 120 g,,Warzywa
-R009,4,2,,płaskie łyżki mąki pszennej - 20 g,,Sypkie
-R009,5,,,mały pęczek szczypiorku,,Inne
-R009,6,,,"przyprawy: po płaskiej łyżeczce cukru, soli i pieprzu",,Sypkie
-R009,7,,,olej do smażenia lub smalec,,Sypkie
+R009,1,800,g,ziemniaki,,Warzywa
+R009,2,1,szt,cebula,,Warzywa
+R009,3,1,szt,jajko,,Nabiał
+R009,4,2,łyżka,mąka,,Sypkie
 R010,1,1,szt,brokuł,,Warzywa
 R010,2,150,g,jogurt naturalny,,Nabiał
 R010,3,1,ząbek,czosnek,,Warzywa

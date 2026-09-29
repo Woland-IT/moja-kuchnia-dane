@@ -1,6 +1,6 @@
 {
   "wersjaFormatu": 1,
-  "wygenerowano": "2026-09-29T17:01:45",
+  "wygenerowano": "2026-09-29T17:16:56",
   "zrodlo": "kurator",
   "przepisy": [
     {
@@ -627,73 +627,51 @@
     {
       "id": "R009",
       "nazwa": "Placki ziemniaczane",
-      "kategoria": "Inne",
-      "instrukcje": "1. Obrane ziemniaki zetrzyj na drobnych oczkach, bądź użyj malaksera/maszynki do mielenia z odpowiednią nakładką.\n\n2. Masę ziemniaczaną odciśnij z nadmiaru wody. Używam do tego bawełnianej ściereczki. Odlałam do osobnej miski około 100 ml płynu (czasem odlewam nawet do 150 m wody). Masa powinna być mokra, jednak nie powinna stać w niej woda. Poniżej na zdjęciu masa ziemniaczana po odciśnięciu nadmiaru wody do osobnej miseczki.\n\n3. Odciśniętej wody nie wylewaj. Odstaw ją w miseczce na 10-20 minut. Po tym czasie na dnie naczynia powinna zebrać się skrobia z ziemniaków.\n\n4. Wylej całą wodę. Na dnie zbierze Ci się przynajmniej jedna łyżka skrobi, którą polecam ponownie dodać do startych ziemniaków.\n\n5. Szczypiorek oraz cebulę poszatkuj drobno. Nie są to składniki niezbędne i można je śmiało pominąć przy szykowaniu placków ziemniaczanych, jednak gorąco polecam dodać przynajmniej odrobinę szczypiorku.\n\n6. Do miski ze startymi ziemniakami dodaj skrobię, która zebrała się na dnie miseczki (po odlaniu nadmiaru wody.) Wbij również dwa jajka. Wsyp dwie płaskie łyżki mąki pszennej oraz po płaskiej łyżeczce cukru, soli i pieprzu. Nie zapomnij o posiekanym szczypiorku i cebuli.\n\n7. Bardzo dokładnie wymieszaj całą masę.\n\n8. Przygotuj sobie średnią lub dużą patelnię z grubym dnem. Zacznij ją nagrzewać. Dodaj 2-3 łyżki smalcu (u mnie smalec gęsi, ale może być też dobry smalec wieprzowy lub w ostateczności olej roślinny do smażenia).\n\n9. Dużą łyżką nakładaj porcje masy ziemniaczanej. Placki ziemniaczane przewracaj na druga stronę, gdy zrobią się od spodu rumiane. Jeśli rumienią się za szybko, to zmniejsz moc palnika. Jeśli po kilku minutach są nadal dość blade, to zwiększ moc palnika. To jak długo będą się smażyły zależy od patelni, mocy palnika i grubości placków. Orientacyjnie jednak nie powinno to trwać dłużej niż trzy minut na stronę. W ten sposób usmaż wszystkie placki ziemniaczane.",
-      "porcje": 2,
-      "prepTimeMinutes": null,
-      "cookTimeMinutes": null,
-      "totalTimeMinutes": null,
+      "kategoria": "Dania główne",
+      "instrukcje": "Brak zapisanych kroków — uzupełnij przy następnym gotowaniu.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 20,
+      "totalTimeMinutes": 40,
       "rating": 0.0,
       "ulubiony": false,
-      "tagi": [],
+      "tagi": [
+        "dania główne"
+      ],
       "pdfFileName": null,
-      "dataDodania": "2026-09-29T17:01:38",
-      "dataEdycji": "2026-09-29T17:01:38",
+      "dataDodania": "2026-03-13T20:47:41",
+      "dataEdycji": "2026-09-28T19:21:07",
       "aktywny": true,
       "skladniki": [
         {
           "kolejnosc": 1,
-          "ilosc": 1,
-          "jednostka": "kg",
-          "nazwa": "obranych ziemniaków - około 10 średnich ziemniaków",
+          "ilosc": 800,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
           "notatka": null,
           "kategoria": "Warzywa"
         },
         {
           "kolejnosc": 2,
-          "ilosc": 2,
-          "jednostka": null,
-          "nazwa": "średnie lub małe jajka",
-          "notatka": null,
-          "kategoria": "Nabiał"
-        },
-        {
-          "kolejnosc": 3,
-          "ilosc": null,
-          "jednostka": null,
-          "nazwa": "mała cebula - około 120 g",
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
           "notatka": null,
           "kategoria": "Warzywa"
         },
         {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jajko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
           "kolejnosc": 4,
           "ilosc": 2,
-          "jednostka": null,
-          "nazwa": "płaskie łyżki mąki pszennej - 20 g",
-          "notatka": null,
-          "kategoria": "Sypkie"
-        },
-        {
-          "kolejnosc": 5,
-          "ilosc": null,
-          "jednostka": null,
-          "nazwa": "mały pęczek szczypiorku",
-          "notatka": null,
-          "kategoria": "Inne"
-        },
-        {
-          "kolejnosc": 6,
-          "ilosc": null,
-          "jednostka": null,
-          "nazwa": "przyprawy: po płaskiej łyżeczce cukru, soli i pieprzu",
-          "notatka": null,
-          "kategoria": "Sypkie"
-        },
-        {
-          "kolejnosc": 7,
-          "ilosc": null,
-          "jednostka": null,
-          "nazwa": "olej do smażenia lub smalec",
+          "jednostka": "łyżka",
+          "nazwa": "mąka",
           "notatka": null,
           "kategoria": "Sypkie"
         }
