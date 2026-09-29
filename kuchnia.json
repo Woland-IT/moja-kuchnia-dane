@@ -1,6 +1,6 @@
 {
   "wersjaFormatu": 1,
-  "wygenerowano": "2026-09-29T17:16:56",
+  "wygenerowano": "2026-09-29T17:18:09",
   "zrodlo": "kurator",
   "przepisy": [
     {
@@ -5709,6 +5709,99 @@
           "nazwa": "musztarda",
           "notatka": null,
           "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R087",
+      "nazwa": "Placki ziemniaczane (aniagotuje)",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Obrane ziemniaki zetrzyj na drobnych oczkach, bądź użyj malaksera/maszynki do mielenia z odpowiednią nakładką.\n\n2. Masę ziemniaczaną odciśnij z nadmiaru wody. Używam do tego bawełnianej ściereczki. Odlałam do osobnej miski około 100 ml płynu (czasem odlewam nawet do 150 m wody). Masa powinna być mokra, jednak nie powinna stać w niej woda. Poniżej na zdjęciu masa ziemniaczana po odciśnięciu nadmiaru wody do osobnej miseczki.\n\n3. Odciśniętej wody nie wylewaj. Odstaw ją w miseczce na 10-20 minut. Po tym czasie na dnie naczynia powinna zebrać się skrobia z ziemniaków.\n\n4. Wylej całą wodę. Na dnie zbierze Ci się przynajmniej jedna łyżka skrobi, którą polecam ponownie dodać do startych ziemniaków.\n\n5. Szczypiorek oraz cebulę poszatkuj drobno. Nie są to składniki niezbędne i można je śmiało pominąć przy szykowaniu placków ziemniaczanych, jednak gorąco polecam dodać przynajmniej odrobinę szczypiorku.\n\n6. Do miski ze startymi ziemniakami dodaj skrobię, która zebrała się na dnie miseczki (po odlaniu nadmiaru wody.) Wbij również dwa jajka. Wsyp dwie płaskie łyżki mąki pszennej oraz po płaskiej łyżeczce cukru, soli i pieprzu. Nie zapomnij o posiekanym szczypiorku i cebuli.\n\n7. Bardzo dokładnie wymieszaj całą masę.\n\n8. Przygotuj sobie średnią lub dużą patelnię z grubym dnem. Zacznij ją nagrzewać. Dodaj 2-3 łyżki smalcu (u mnie smalec gęsi, ale może być też dobry smalec wieprzowy lub w ostateczności olej roślinny do smażenia).\n\n9. Dużą łyżką nakładaj porcje masy ziemniaczanej. Placki ziemniaczane przewracaj na druga stronę, gdy zrobią się od spodu rumiane. Jeśli rumienią się za szybko, to zmniejsz moc palnika. Jeśli po kilku minutach są nadal dość blade, to zwiększ moc palnika. To jak długo będą się smażyły zależy od patelni, mocy palnika i grubości placków. Orientacyjnie jednak nie powinno to trwać dłużej niż trzy minut na stronę. W ten sposób usmaż wszystkie placki ziemniaczane.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ok. 25 sztuk"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-09-29T17:18:06",
+      "dataEdycji": "2026-09-29T17:18:06",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "kg",
+          "nazwa": "ziemniaki",
+          "notatka": "około 10 średnich ziemniaków",
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": "małe",
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 120,
+          "jednostka": "g",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "mąka pszenna",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "pęczek",
+          "nazwa": "szczypiorek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "sól",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "pieprz",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 3,
+          "jednostka": "łyżka",
+          "nazwa": "smalec",
+          "notatka": "albo olej do smażenia",
+          "kategoria": "Sypkie"
         }
       ]
     }
