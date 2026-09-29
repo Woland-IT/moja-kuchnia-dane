@@ -1,10 +1,10 @@
 {
   "wersjaFormatu": 1,
-  "wygenerowano": "2026-09-29T16:58:28",
+  "wygenerowano": "2026-09-29T17:01:45",
   "przepisy": "przepisy.csv",
   "skladniki": "skladniki.csv",
   "json": "kuchnia.json",
   "liczbaPrzepisow": 86,
-  "liczbaSkladnikow": 483,
+  "liczbaSkladnikow": 486,
   "uwaga": "Lista zakupów NIE wchodzi do tych plików. Flutter tylko czyta."
 }
