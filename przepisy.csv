@@ -1,0 +1,946 @@
+id,nazwa,kategoria,instrukcje,porcje,prepTimeMinutes,cookTimeMinutes,totalTimeMinutes,rating,ulubiony,tagi,pdfFileName,dataDodania,dataEdycji,aktywny
+R001,Owsianka klasyczna,Śniadania,Brak zapisanych kroków — uzupełnij przy następnym gotowaniu.,2,5,10,15,0.0,0,"śniadania,szybkie",,2026-03-12T20:17:39,2026-09-28T19:21:07,1
+R002,Zupa bosmańska,Zupy,"Parówki obrać i ugotować.
+
+Pieczarki pokroić w plastry i posmażyć z drobno pokrojoną cebulą.
+
+Do sporego garnka wlać około 2 litrów wody, postawić na ogniu, włożyć parówki dodać pieczarki z cebulą.
+
+Kiedy wywar zacznie wrzeć dodać groszek i dwie łyżki koncentratu pomidorowego. Zagotować.
+
+Dodać śmietanę z mąką, sól, pieprz.
+
+W bulionówkach posypać tartym serem i pietruszką.",6,20,60,80,0.0,0,zupy,,2026-03-12T20:44:07,2026-09-28T19:21:07,1
+R003,Ciasto jogurtowe z truskawkami,Ciasta,"Masło ucieramy z cukrem, cały czas ucierając wbijamy po jednym jajku.
+
+Dodajemy mąkę przesianą z proszkiem do pieczenia, jogurt.
+
+Robimy to na przemian mąka-jogurt, mąka-jogurt (WAŻNE)
+
+Delikatnie wymieszać łyżką.
+
+Wylewamy na tortownice natłuszczoną i obsypujemy bułką tartą.
+
+Na wierzch nakładamy truskawki.
+
+Pieczemy w nagrzanym do 160 stopni piekarniku około 50 minut!",8,20,50,70,0.0,0,"ciasta,szybkie,wypieki",,2026-03-12T20:12:44,2026-09-28T19:21:07,1
+R004,Quiche ze szpinakiem i kurczakiem,Zapiekanki,"1. Wszystkie składniki na ciasto zagniatamy, tak by powstała jednolita masa.
+
+2. Następnie owijamy ciasto w folię spożywczą i odstawiamy do lodówki na około 1 godzinę.
+
+3. W tym czasie przygotowujemy farsz.
+
+4. Pierś z kurczaka kroimy w drobną kostkę i podsmażamy na patelni na złoty kolor.
+
+5. Szpinak rozmrażamy, łączymy z kurczakiem i doprawiamy całość solą oraz pieprzem.
+
+6. Natłuszczamy formę do tortownicy. % Schłodzone w lodówce ciasto rozwałkowujemy i wylepiamy nim dno oraz boki formy.
+
+7. Ciasto nakłuwamy widelcem i przykrywamy je papierem do pieczenia.
+
+8. Następnie obciążamy papier wysypując na niego na przykład groch.
+
+9. Wkładamy ciasto do piekarnika nagrzanego do 180 stopni Celsjusza.
+
+10. Podpiekamy przez 20 minut.
+
+11. W tym czasie przygotowujemy sos.
+
+12. Miksujemy ze sobą wszystkie składniki: jajka, mleko, śmietanę oraz serek.
+
+13. Następnie przyprawiamy całość ulubionymi przyprawami, dodajemy ser i mieszamy.
+
+14. Na podpieczone ciasto wykładamy równomiernie farsz, a następnie zalewamy całość sosem.
+
+15. Quiche pieczemy około 20-25 minut w 180 stopniach Celsjusza, a następnie odstawiamy go na około 15 minut.",4,25,45,70,0.0,0,zapiekanki,,2026-02-25T18:54:33,2026-03-11T08:05:57,1
+R005,Zapiekanka ziemniaczana,Zapiekanki,"PATRZ W INSTRUKCJI 
+piec w 160 stopniach aż będzie złoto brązowe.
+
+SOS
+Wymieszaj: jajko, śmietanę, pietruszkę, sól, pieprz, podsmażona szynka i pokrojony ser 
+
+Ziemniaki pokrój w (sprawdzić w pliku) i ułóż na dnie naczynia wysmarowanego tłuszczem, przykryj plastrami pomidora, cebulą, plastrami ogórka i pokrojoną papryką, zalej sosem. 
+
+Poprawnie ułóż ziemniaki i posyp papryką. 
+
+Ułóż warstwę pomidorów i ogórków i cebulę
+
+Zalej sosem, posyp resztę sera.",4,25,45,70,0.0,0,zapiekanki,,2026-03-12T20:30:27,2026-09-28T19:21:07,1
+R006,Jajecznica z cebulą,Śniadania,"1. Pieczywo skropić oliwą i podawać z warzywami.
+
+2. Jajecznicę usmażyć z posiekaną cebulą",2,5,10,15,0.0,0,"śniadania,szybkie",,2026-02-25T17:21:37,2026-09-28T19:21:07,1
+R007,Pierś z indyka pieczona podawana kaszą pęczak i surówką,Dania główne,"1. Pierś z indyka posypać przyprawami, skropić łyżeczką oleju i piec w piekarniku nagrzanym do 180 stopni C ok. 25 minut.
+
+2. Kaszę posypać natką pietruszki.
+
+3. Marchewkę zetrzeć na tarce.
+
+4. Surówkę skropić olejem.",4,20,30,50,0.0,0,dania główne,,2026-02-25T16:44:06,2026-03-10T13:11:37,1
+R008,Jabłkowo-cynamonowe ciasto z orzechami i migdałami,Ciasta,"1. Jajka ubić mikserem ze szklanką cukru. 
+
+2. Przesianą mąkę połączoną z sodą, proszkiem i cynamonem dodawać powoli do jajek ubitych z cukrem.
+
+3. Miksować na wolnych obrotach. 
+
+4. Na koniec dodać pokrojone w kostkę jabłka, olej, orzechy oraz migdały.
+
+5. Wymieszać łyżką. 
+
+6. Ciasto przelać do natłuszczonej tortownicy, piec w 180 stopniach ok. 50 minut. 5 ciasto zawsze się udaje, pięknie pachnie podczas pieczenia.
+
+7. Najbardziej lubię na ciepło, z filiżanką herbaty cynamonowej.",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-02-25T16:19:02,2026-03-10T10:07:32,1
+R009,Placki ziemniaczane,Dania główne,Brak zapisanych kroków — uzupełnij przy następnym gotowaniu.,4,20,20,40,0.0,0,dania główne,,2026-03-13T20:47:41,2026-09-28T19:21:07,1
+R010,Brokuły z sosem czosnkowym,Inne,"1. Brokuły podzielić na różyczki i wrzucić do wrzątku na 4-5 minut.
+
+2. Wyjąć i osuszyć.
+
+3. Jogurt wymieszać z cząbrem, czosnkiem, solą i szczyptą pieprzu, wymieszać.
+
+4. Brokuły przełożyć do miseczki, dodać pokrojone na pół pomidorki, całość wymieszać, polać sosem i posypać pestkami dyni.",4,10,10,20,0.0,0,przekąski / dodatki,,2026-02-25T17:13:03,2026-03-10T14:09:23,1
+R011,Gyros z ryżem i kurczakiem,Zapiekanki,"1. Ugotuj ryż do miękkości. 2.
+
+2. Filet z kurczaka pokrój w kostkę, dopraw 1 łyżką przyprawy gyros. 3.
+
+3. Cebulę pokrój w piórka. 4.
+
+4. Na patelni rozgrzej niewielką ilość oleju, podsmaż kurczaka, a następnie dodaj cebulkę i podsmaża całość jeszcze minutę. 5.
+
+5. Pokrój ogórki, paprykę, pomidora (lub pomidorki suszone).
+
+6. Kukurydzę odcedź z zalewy. 6.
+
+7. Zetrzyj ser na tarce. 7.
+
+8. Przygotuj sos: w miseczce wymieszaj śmietanę, majonez, ketchup i 1 łyżkę przyprawy gyros. 8.
+
+9. W naczyniu żaroodpornym układaj kolejno: ryż, połowę sosu, połowę sera, kurczaka z cebulką, ogórki, paprykę, pomidora, kukurydzę, resztę sosu i resztę sera. 9.
+
+10. Wstaw zapiekankę do nagrzanego piekarnika na 170 stopni Celsjusza i piecz 30 minut. 10.
+
+11. Opcjonalnie możesz posypać gotową zapiekankę posiekanym szczypiorkiem.",4,20,30,50,0.0,0,zapiekanki,,2026-02-25T16:31:56,2026-09-28T19:21:07,1
+R012,Ciasto dyniowe,Ciasta,"Maka, cukier, proszek do pieczenia, sól, soda, przyprawy do jednej miski
+
+jajka, maślanka, pure z dynii, rozpuszczone masło w drugiej misce ubij trzepaczką lekko
+
+Mokre dodaj do suchego i połącz łyżką
+
+Wlej do formy do piekarnika nagrzanego do 180 stopni 40-50 minut do suchego patyka",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-03-13T21:36:39,2026-03-13T21:23:01,1
+R013,Sałatka z fasoli czerwonej i tuńczyka,Sałatki,"1. Składniki sałatki wymieszać i polać jogurtem.
+
+2. Sałatkę podawać z pieczywem.",4,20,30,50,0.0,0,"sałatki,warzywa",,2026-02-25T16:38:01,2026-03-10T10:18:01,1
+R014,Gratin dauphinois,Zapiekanki,"1. Ogrzej piekarnik do temperatury 200 stopni. 
+
+2. Ziemniaki obierz ze skóry i pokrój w cienkie plasterki przy pomocy robota kuchennego Magimix.
+
+3. Robot błyskawicznie przerabia taką ilość ziemniaków (czyli przeszło kilogram) - zajęło to dosłownie 10 sekund. 3.
+
+4. Naczynie do zapiekania natłuść masłem.
+
+5. Wcześniej możesz natrzeć je czosnkiem; ja pomijam ten etap. 4. b. 6. 7. 8. 9.
+
+6. Plasterki ziemniaków ułóż w naczyniu warstwami w taki sposób, by zachodziły na siebie na ok. 5-10 mm.
+
+7. Układaj, aż zużyjesz wszystkie ziemniaki.
+
+8. Co kilka warstw oprósz ziemniaki solą, pieprzem i dużą szczyptą świeżo startej gałki muszkatołowej.
+
+9. Zetrzyj ser na tarce.
+
+10. Wymieszaj go ze śmietaną, dużą szczyptą pieprzu i gałki muszkatołowej.
+
+11. Wyłóż masę serowo-śmietanową na wierzch zapiekanki.
+
+12. Przykryj naczynie pokrywką lub folią aluminiową (szczelnie) i wstaw do piekarnika na 60 minut.
+
+13. Zdejmij pokrywkę i piecz jeszcze ok. 10-15 minut, by wierzch zapiekanki przyrumienił się i nabrał mocno złotego koloru.",4,25,45,70,0.0,0,zapiekanki,,2026-02-25T16:01:29,2026-03-10T09:52:50,1
+R015,Jogurt naturalny z bananem,Śniadania,"Do jogurtu dodać truskawki, orzechy i otręby.",1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:20:52,2026-09-28T19:21:07,1
+R016,Jogurt naturalny z borówką,Śniadania,Jogurt podawać z borówką i orzechami.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:21:51,2026-09-28T19:21:07,1
+R017,Gofry,Ciasta,"Można dodać ulubione dodatki.
+
+Jajka ubijamy do miski i miksujemy do spienienia
+
+Dodaj serek wiejski razem ze śmietaną (całe opakowanie) i mieszaj łyżką.
+
+Dodaj olej, cukier zwykły i waniliowy i 4 czubate łyżki mąki.
+
+Mieszaj łyżką by nie było grudek.
+
+Nakładaj do rozgrzanej gofrownicy kolejne porcje gofrów.",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-03-13T20:30:00,2026-09-28T19:21:07,1
+R018,Paszteciki drożdżowe,Inne,"Wyrób w misce
+
+Drożdze i cukier rozpuścić w śmietanie
+
+Do mąki dodać tłuszcz, posiekać dodać pozostałe składnki",12,30,25,55,0.0,0,przekąski / dodatki,,2026-03-12T19:30:51,2026-09-28T19:21:07,1
+R019,Ciasto czekoladowo-piernikowe,Ciasta,"1. Piekarnik rozgrzać do 180°C, kwadratową blachę 24 x 24 cm wyłożyć papierem do pieczenia.
+
+2. W misce wymieszać mąkę, kakao, przyprawę do piernika, proszek do pieczenia, sodę i Cynamon.
+
+3. Mikserem ubić masło z cukrem, miodem, wanilią, dodać jajko.
+
+4. Do masy stopniowo wsypywać mąkę z dodatkami na przemian z gorącą wodą, mieszając, aż ciasto będzie gładkie.
+
+5. Ciasto wlać do formy, wyrównać powierzchnię, piec ok. 40 min.
+
+6. Wyjąć z piekarnika i ostudzić, wierzch posmarować powidłami śliwkowymi i polewą czekoladową.",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-02-25T15:20:13,2026-09-28T19:21:07,1
+R020,Chleb od Maćka,Pieczywo,"UWAGA 1
+
+razem wymieszaj około 30 minut wcześniej
+
+Piec 200 stopni 
+
+Góra dół
+
+60-75 minut",4,30,70,100,0.0,0,pieczywo,,2026-03-13T20:22:07,2026-09-28T19:21:07,1
+R021,"Kanapka z wędliną, papryką i pomidorem",Śniadania,Pieczywo podawać z wędliną.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:21:03,2026-09-28T19:21:07,1
+R022,Pieczony schab podawany z ziemniakiem i kiszoną kapustą,Dania główne,"1. Nagrzać piekarnik do 180 stopni.
+
+2. Schab opłukać i osuszyć.
+
+3. Natrzeć mięso olejem i przyprawami.
+
+4. Mięso zawinąć szczelnie w papier do pieczenia.
+
+5. Schab piec 50 minut w temperaturze 200 stopni.
+
+6. Ziemniaka ugotować.
+
+7. Mięso podawać z ziemniakami i kiszoną kapustą.",4,20,30,50,0.0,0,dania główne,,2026-02-25T17:07:55,2026-03-10T13:42:07,1
+R023,Zapiekanka,Zapiekanki,"1. Umyte i obrane ziemniaki gotuj w osolonej wodzie ok. 20 minut.
+
+2. Cebulę pokrój w kostkę, czosnek przeciśnij przez praskę, pieczarki również pokrój w kostkę, a bakłażana w półtalarki.
+
+3. Cebulę podsmaż na rozgrzanej oliwie, kiedy zeszkli się, dodaj czosnek.
+
+4. Po dwóch minutach dodaj pieczarki i smaż całość ok. 20 minut.
+
+5. Bakłażana podsmaż na oddzielnej patelni na rozgrzanej oliwie, aż nabierze złoto-brązowego koloru.
+
+6. Ugotowane ziemniaki pokrój w grube plastry i dopraw je dużą ilością pieprzu i przyprawy do ziemniaków.
+
+7. Dodatkowo możesz dodać rozmaryn, suszony czosnek, paprykę mieloną.
+
+8. Dno naczynia żaroodpornego wyłóż szczelnie jedną warstwą ziemniaków (z połowy przygotowanych), następnie rozłóż połowę porcji bakłażana i pieczarek z cebulą.
+
+9. Posyp całość obficie startym żółtym serem.
+
+10. Następnie ułóż kolejną warstwę: ziemniaki - bakłażan - cebula z pieczarkami.
+
+11. Górę oprósz serem żółtym.
+
+12. Naczynie z warzywami włóż do piekarnika na ok. 45 minut i piecz temperaturze 180 st.
+
+13. Jeśli góra za szybko zbrązowieje, możesz przykryć naczynie folią aluminiową.",4,25,45,70,0.0,0,zapiekanki,,2026-02-25T18:59:06,2026-03-12T17:30:55,1
+R024,"Kanapki z wędliną, jajkiem, ogórkiem i rzodkiewką",Śniadania,Jajko ugotować. Produkty położyć na kanapkę.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:13:53,2026-09-28T19:21:07,1
+R025,Ciasto z rabarbarem,Ciasta,"Rabarbar pokroić na małe kawałki, zasypać 2 łyżkami cukru i odstawić na 20 minut.
+
+Jajka ubić z cukrem na puszystą masę dokładnie dodać mąkę pszenną z proszkiem delikatnie wymieszać.
+
+Do rabarbaru dodać 2 łyżki budyniu, wymieszać rabarbar ułożyć na cieście.
+
+Na wierzch zetrzeć zimne masło.
+
+Nagrzać piekarnik do 170 stopni piec 40 minut.",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-03-12T19:47:43,2026-09-28T19:21:07,1
+R026,Prażona owsianka z borówką i orzechami,Śniadania,Płatki owsiane i orzechy uprażyć na suchej patelni,2,5,10,15,0.0,0,"śniadania,szybkie",,2026-02-25T16:38:47,2026-03-10T10:22:26,1
+R027,Sałatka grecka,Sałatki,"1. Warzywa umyć i pokroić.
+
+2. Dodać sałatę, ser feta.
+
+3. Na koniec dodać przyprawy i olej rzepakowy.",4,20,30,50,0.0,0,"sałatki,warzywa",,2026-02-25T16:45:03,2026-03-10T13:14:05,1
+R028,Makaron ze szparagami,Sałatki,Makaron rurki gotujemy 10 minut w połowie gotowania dodaj pokrojone szparagi. Odcedź i przelej zimną wodą.,4,20,30,50,0.0,0,sałatki,,2026-03-13T19:37:16,2026-09-28T19:21:07,1
+R029,Zupa koperkowa z pulpetami,Zupy,"PULPETY
+
+Mięso mielone
+Koperek
+Cebula starta na tarce
+jajko
+namoczona bułka
+
+wyrobić, formułować małe kotleciki, obtoczyć w bułce lub w mące i smażyć.
+
+Zupa
+W garnku na maśle zeszklić drobnie pokrojoną cebulę dodać pokrojone ziemniaki oraz startą na tarce marchew. Dodać sól, pieprz kukurydzę smażyć 5 minut. Wlać gorący bulion zagotować włożyć pulpeciki i gotować 15 minut. Dodać posiekany koper. Zestawić z ognia i dodać śmietanę.",6,20,60,80,0.0,0,zupy,,2026-03-13T19:59:51,2026-09-28T19:21:07,1
+R030,Ciasteczka owsiane,Inne,"Wszystkie sypkie składniki mieszamy w dużej misce, dodajemy posiekane masło i jajko, zagniatamy.
+
+Ciasto powinno być mokre, ale nie bardzo klejące - aby uzyskać odpowiednią konsystencję, można dodać odrobinę mąki.
+
+Ciasto dzielimy dużą łyżką do lodów - powinno wyjść około 20 ciastek.
+
+Rozgniatamy na płasko i wyrównujemy boki.
+
+ Pieczemy w temperaturze 180 stopni dotąd, az będą rumiane (około 15-20 minut).
+
+Wyjmujemy blachę z pieca, odstawiamy na 2-3 minuty""",12,20,15,35,0.0,0,przekąski / dodatki,,2026-02-25T15:15:26,2026-03-10T09:31:42,1
+R031,Twarożek z rzodkiewką i szczypiorkiem,Śniadania,"1. Ser biały rozgnieść i wymieszać z jogurtem.
+
+2. Do twarożku dodać posiekany szczypiorek i rzodkiewkę.",2,10,0,10,0.0,0,śniadania,,2026-02-25T17:21:24,2026-03-10T14:18:58,1
+R032,"Tosty z cebulą, mozzarellą i wędliną",Śniadania,"1. Pieczywo skropić oliwą i posypać drobno pokrojoną cebulą.
+
+2. Następnie na kromki chleba położyć wędlinę i mozzarellę.
+
+3. Tosty zapiec w piekarniku.
+
+4. Tosty podawać z warzywami.",2,10,0,10,0.0,0,śniadania,,2026-02-25T17:20:40,2026-09-28T19:21:07,1
+R033,"Jogurt naturalny z truskawkami, otrębami i orzechami",Śniadania,Jogurt podawać z dodatkami.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:25:56,2026-03-10T14:19:58,1
+R034,Zupa krem z soczewicy i marchewki z prażonymi pestkami dyni,Zupy,"1. Posiekaną cebulkę zeszklić 2-3 minuty na oleju, dodać sól, pieprz, przeciśnięty czosnek oraz kurkumę.
+
+2. Całość przełożyć do garnka wlać dwie szklanki wody i zagotować wsypać soczewicę, dodać pokrojoną marchew i gotować ok. 20 minut.
+
+3. Następnie wrzucić pokrojonego pomidora bez skórki i zmiksować zupę blenderem.
+
+4. Ponownie gotować przez 5 minut.
+
+5. Pestki dyni uprażyć na suchej patelni.
+
+6. Zupę podawać posypaną pestkami dyni.",6,20,60,80,0.0,0,zupy,,2026-02-25T17:18:03,2026-09-28T19:21:07,1
+R035,Koktajl z jarmużu i awokado,Napoje,"1. Jabłko starannie umyj, osusz, pokrój na ćwiartki, a następnie wykrój gniazdo nasienne Korzeń imbiru obierz ze skórki, a zaraz potem zetrzyj na tarce o drobnych oczkach.
+
+2. Jarmuż opłucz i osusz.
+
+3. Pomarańczę obierz ze skóry, a następnie usuń białe błony, pozostawiając jedynie miąższ owocu.
+
+4. Awokado przekrój na połowę, usuń pestkę i za pomocą łyżki stołowej wybierz miąższ ze środka.
+
+5. Cytrynę sparz wrzątkiem, przekrój na połowę i wyciśnij z niej sok.
+
+6. W blenderze kielichowym umieść miód, wodę kokosową, imbir, jabłko, pomarańczę, siemię lniane, awokado, sok z cytryny i jarmuż.
+
+7. Wszystkie podane składniki starannie zblenduj.
+
+8. Koktajl odchudzający z jarmużu i awokado serwuj bezpośrednio po przygotowaniu.
+
+9. Napój można podawać później, przechowując wyrób w lodówce, najlepiej w szczelnie zamkniętym pojemniku.",2,10,0,10,0.0,0,napoje,,2026-02-25T17:26:26,2026-03-10T14:23:50,1
+R036,Pasta jajeczna,Śniadania,"1. Jajka gotujemy na twardo.
+
+2. Studzimy, obieramy i ścieramy na tarce na dużych oczkach.
+
+3. Szczypiorek siekamy drobno, dodajemy do jajek.
+
+4. Ogórki konserwowe i paprykę kroimy w małą kostkę, a oliwki w krążki.
+
+5. Dodajemy wszystkie warzywa do jajek.
+
+6. Mieszamy składniki.
+
+7. Dodajemy majonez, jogurt, musztardę, paprykę słodką mieloną, curry i pieprz.
+
+8. Całość mieszamy, na koniec doprawiamy solą do smaku.
+
+9. Jeśli pasta wydaje nam się zbyt mdła, możemy dodać odrobinę musztardy lub parę kropel soku z cytryny.
+
+10. Jeśli zaś odwrotnie - przesadziliśmy z musztardą i pasta wydaje nam się zbyt kwaśna, smak można zrównoważyć, dodając szczyptę cukru, łyżkę jogurtu lub łyżeczkę majonezu.
+
+11. WSKAZÓWKA Jajka na twardo stanowią świetny punkt wyjścia do przygotowania również innych wariantów past.
+
+12. Ostatnio na rodzimych stołach furorę robi suszonymi pomidorami i bazylią.
+
+13. Ciekawym dodatkiem do kanapek będzie także pasta jajeczna ze startym żółtym serem oraz wybranymi warzywami.
+
+14. Ten wariant wyjątkowo dobrze sprawdzi się, gdy zaserwujemy go z tostami.
+
+15. Osoby będące na diecie odchudzającej niewątpliwie zainteresuje zaś przepis na pastę jajeczną w wersji light - bez majonezu, za to z dodatkiem chudego jogurtu, serka wiejskiego lub naturalnego serka homogenizowanego",2,20,30,50,0.0,0,śniadania,,2026-02-25T18:54:16,2026-03-11T08:02:57,1
+R037,Spaghetti z pesto i orzechami,Dania główne,"1. Orzechy posiekaj z czosnkiem i natką pietruszki.
+
+2. Dolej oliwę, dopraw do smaku.
+
+3. Postaraj się, żeby składniki stworzyły jednolitą masę.
+
+4. Makaron spaghetti ugotuj.
+
+5. Wymieszaj z sosem i posyp ulubionym serem.",4,20,30,50,0.0,0,dania główne,,2026-02-25T18:58:55,2026-09-28T19:21:07,1
+R038,"Kanapka z wędliną, pomidorem, rzodkiewką i szczypiorkiem",Śniadania,"1. Pieczywo skropić oliwą.
+
+2. Kanapki podawać z wędliną i warzywami.",1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:12:33,2026-03-10T13:55:46,1
+R039,Ciasto marchewkowe z kremem cytrynowym,Ciasta,"1. Jajka wbij do miski, dodaj olej i wymieszaj.
+
+2. Następnie wsyp startą na tarce marchewkę i jeszcze raz wymieszaj.
+
+3. Do innego naczynia przesyp mąkę, cukier, wiórki, rodzynki, jeśli używasz, sól, cynamon i gałkę oraz proszek i sodę.
+
+4. Dokładnie wymieszaj. Suche składniki przesyp do mokrych i wymieszaj wszystko tak, by nie było widać mąki.
+
+5. Przygotuj tortownicę posmarowaną masłem i przełóż do niej masę na ciasto marchewkowe.
+
+6. Piecz w 150 stopniach C przez 60 minut.",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-02-25T15:18:43,2026-03-10T09:46:29,1
+R040,Herbata żurawinowa,Napoje,"1. Namaczaj żurawinę w gorącej wodzie przez 10 minut.
+
+2. Po tym czasie wrzuć żurawinę do garnka i zalej 1 litrem wody.
+
+3. Doprowadź do wrzenia, a następnie gotuj na małym ogniu przez 10 minut. / 2 Wrzuć do garnka torebkę herbaty i odstaw pod przykryciem na 7 minut.
+
+4. Do gotowej herbaty wyciśnij sok z cytryny i dodaj miód.",2,5,15,20,0.0,0,napoje,,2026-02-25T18:53:53,2026-03-11T07:59:53,1
+R041,Ciasto od Natalii,Ciasta,"Jajko ubić mikserem z cukrem, kontynuować ubijanie i cienkim strumieniem wlewaj olej i mleko 
+
+Dodac mąkę, proszek do pieczenia cynamon i sól
+
+Dodać jabłko orzechy rodzynki
+
+Wymieszaj łyżką 175 stopni.",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-03-13T20:18:12,2026-09-28T19:21:07,1
+R042,Zupa szparagowa,Zupy,"W garnku o grubym dnie na oliwie i maśle podsmaż 3-4 minuty pokrojone w kostkę ziemniaki i przepołowiony czosnek.
+
+Wlać gorący bulion z kurkumą (niewielka ilość). Gotowanie 10-15 minut na małym ogniu.
+
+Odłamać twarde końce szparagów (same się odłamią), pokroić w cienkie plasterki dodać do ziemniaków i gotowac 1 minutę.
+
+Dodać koperek i śmietanę (śmietaną zahartować zupę)
+
+Podawać z pokruszoną fetą i szczypiorkiem.",6,20,60,80,0.0,0,zupy,,2026-03-13T19:32:32,2026-09-28T19:21:07,1
+R043,Ciasto z rabarbarem i kruszonką,Ciasta,"1. Masło i jajka wyjąć wcześniej z lodówki.
+
+2. Piekarnik r agrzać do 180 st.
+
+3. Okrągłą formę z odpinaną obręczą o średnicy 24 - 25 cm wysmarować masłem. • Przygotować kruszonkę: na małym ogniu na > itelni roztop < masło, dodać cukier a po chwili mąkę, wymieszać, zcijąć z patelni, ostudzić. • Ciasto: Ubijać masło z cukrem pudrem na gładką puszystą masę przez ok. 8 minut.
+
+4. Nie przerywając ubijania doda vać kolejno pc jednym jajku, w około 3 minutowych odstępach czas j czyli cały czas intensywnie ubijać masę. • Zmniejszyć obroty miksera do średnich i dodać p zesianą mąkę z proszkiem do pieczenia, na i lepiej dodać ją w 2 - i partiach, za każdym razem miksując do połączenia się składnii c w w jednolite ciasto. • Przełożyć je do formy, na wierzchu rozłożyć pokrojony na plasterki rabarbar.
+
+5. Posypać kruszonką i wstawić do nagrzanego piekarnika.
+
+6. Piec przez ok. 60 minut, do suchego os tyczka.
+
+7. Posypać cukrem pudrem.",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-02-25T16:01:09,2026-09-28T19:21:07,1
+R044,Papryki faszerowane,Dania główne,"Na rozgrzanym oleju zeszklić posiekaną cebulę i czosnek włożyć mięso i obsmażyć.
+
+Dodać sól, piperzm tymianek, czerowną paprykę 1 łyżeczkę kukrurydzy i oregano, dodać koncentrat i natkę, smażyć 2 minuty.
+
+Dodać ryżm wymieszać smażyć 1 minutę, ostudzić. 
+
+Dodaj jajka, wymieszać.
+
+Papryki faszerować na wierzchu położyć plaster pomidora.
+
+Piec 35 minut w 200 stopniach.
+
+Wyjąć, położyć plaster sera i piec jeszcze 10 minut.",4,20,30,50,0.0,0,dania główne,,2026-03-12T20:00:48,2026-09-28T19:21:07,1
+R045,Dorsz pieczony z pomidorami,Dania główne,"1. Dorsza umyć i osuszyć, ponacinać w poprzek i umieścić obrane przekrojone w wzdłuż ząbki czosnku, natrzeć pieprzem i solą, ułożyć w naczyniu żaroodpornym.
+
+2. Pomidorki koktajlowe umyć i dodać do ryby.
+
+3. Wrzucić liście laurowe.
+
+4. Całą zawartość skropić olejem, przykryć i wstawić do piekarnika.
+
+5. Piec ok. 30-40 minut w temp. 180 stopni Celsjusza.
+
+6. Pod koniec pieczenia rybę odkryć i zarumienić.
+
+7. Rybę z pomidorkami podawać z ugotowaną kaszą pęczak.",4,20,30,50,0.0,0,dania główne,,2026-02-25T17:17:48,2026-09-28T19:21:07,1
+R046,"Kanapka z tuńczykiem, serem białym, ogórkiem kiszonym i pomidorem",Śniadania,"Pieczywo podawać z serem, tuńczykiem i warzywami.",1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T16:39:11,2026-03-10T10:25:19,1
+R047,Kasza jaglana na słodko,Śniadania,"Kasze przepłucz gorącą wodą.
+
+Mlego zagotuj dodać kaszy, zmniejszyc ogien i gotować 20 minut.
+
+Po 10 minutach dodać starte na tarce jabłka.
+
+Pod koniec gotowania dodaj miód posyp cynamonem.",2,20,30,50,0.0,0,śniadania,,2026-03-12T19:39:44,2026-09-28T19:21:07,1
+R048,Pierogi z kefirem,Dania główne,"Wszystkie składniki dokładnie wymieszać i ugniatać 10 minut. 
+
+Kiedy ciasto przestanie się lepić w dłoni odłożyć do miski obsypanej mąką na 15 minut.
+
+MAMe poprosic o przeczytanie",4,60,20,80,0.0,0,dania główne,,2026-03-13T21:03:27,2026-09-28T19:21:07,1
+R049,Koktajl jabłkowy,Napoje,"jabłko
+2 garści borówek
+imbir na drobnych oczkach
+sok z połowy cytryny
+mozna dodać szklankę wody",2,10,0,10,0.0,0,napoje,,2026-03-13T20:50:06,2026-09-28T19:21:07,1
+R050,Smoothie,Napoje,Zblendować,2,10,0,10,0.0,0,napoje,,2026-03-13T20:01:38,2026-09-28T19:21:07,1
+R051,Wołowina duszona,Dania główne,"Wołowinę rozbić tłuczkiem na cienkie filety, doprawić solą, pieprzem isuszonym oregano, posmarować musztardą.
+
+2. Przykryć plasterkiem polędwicy jeśli ją używamy, następnie przy krótszym brzegu położyć słupek ogórka i papryki lub tylko kawałek suszonego pomidora.
+
+3. Zwinąć w roladkę, spiąć wykałaczką.
+
+4. Obsmażyć na oleju z każdej strony na dobrej większej patelni na większym ogniu. t • W garnku zagotować rosól lub bulion, do wrzącego bulionu włożyć obsmażone roladki i zagotować.
+
+5. Dodać suszone grzybki (świeże dodajemy później, pod koniec gotowania). • Na patelnię po roladkach włożyć posiekaną w kosteczkę cebulę i przepołowione ząbki czosnku, zeszklić i lekko zrumienić.
+
+6. Przełożyć do garnka.
+
+7. Na patelnię wlać wino i połowę zredukować, przelać do garnka z mięsem.
+
+8. Jeśli nie używamy wina _ .
+
+9. Hi łcwi dbając roiadki.
+
+10. Możemy też gotować na ogniu, pod przykryciem, przez około 2 godziny lub do czasu aż mięso będzie delikatne i kruche. • Jeśli używamy grzybów świeżych lub mrożonych, należy je pokroić i podsmażyć na łyżce masła z dodatkiem soli i pieprzu, na dużym ogniu, przez około 2 minuty co chwilę mieszając.
+
+11. Tak podsmażone grzyby dodajemy na pół godziny przed końcem gotowania zrazów. • Gdy mięso będzie już miękkie możemy zagęścić sos mąką wymieszaną z częścią wywaru, zagotować.
+
+12. Jeśli nie chcemy dodawać mąki możemy sos zmiksować na gładko, wówczas będzie \""naturalnie\"" gęsty, część grzybków możemy pozostawić w całości. • Można też zabielić sos mlekiem (rozmieszać mąkę z mlekiem, dodać do garnka i zagotować).""",4,25,90,115,0.0,0,dania główne,,2026-03-12T17:28:33,2026-09-28T19:21:07,1
+R052,Polędwiczki wieprzowe,Dania główne,"Wszystkie składniki marynata
+
+40 minut w 180 stopniach.",4,20,30,50,0.0,0,dania główne,,2026-03-12T19:52:06,2026-03-12T19:52:19,1
+R053,Bakłażan faszerowany kaszą jaglaną,Dania główne,"1. Bakłażany pokrój na połówki, ułóż na papierze do pieczenia i piecz pół godziny w 200 stopniach, następnie wyjmij miąższ Kaszę jaglaną zalej dwiema szklankami wody z solą i dwiema łyżkami curry, ugotuj do miękkości, w razie potrzeby dolej więcej wody Na rozgrzaną patelnię wiej 3 łyżki zalewy z pomidorów, podsmaż na niej cebulkę i czosnek, dodaj posiekany miąższ z bakłażanów i pokrojoną w drobną kostkę paprykę.
+
+2. Podsmaż około 4 minuty, dodaj natkę pietruszki oraz przyprawy.
+
+3. Zdejmij z ognia i dodaj pokrojone pomidory.
+
+4. Całość wymieszaj z kaszą Bakłażany posyp solą, nałóż farsz i włóż do nagrzanego do 200 stopni piekarnika na 20 minut.
+
+5. Po tym czasie posyp tartym serem i podpiecz, dopóki ser się całkowicie nie roztopi",4,20,30,50,0.0,0,dania główne,,2026-02-24T18:14:03,2026-03-10T07:49:06,1
+R054,Pizza domowa,Dania główne,"Dodatkowo uluione dodatki
+
+Wodę wlewamy do miski rozpuszczamy w niej suszone drożdzę, mieszamy drewnianą łyżką, powoli dodajemy mąkę i dalej mieszamy,
+
+Wyrabiamy ciasto rękami przez ok. 20 minut.
+
+Zgniecone odstawiamy do miski, przykrywamy wilgotną ściereczką na ok 5 godzin.
+
+Po upływie tego czasu ciasto dzielimy na 3 części.
+
+Każdą z nich wykładamy na posypany maką blat, delikatnie wyrabiamy i spłaszczamy.
+
+Tak powstały placek obracamy szybko w rękach, rozciągamy go aż powstanie płaski orkągły spód.
+
+Przekładamy go na blachę w razie potrzeby uklepujemy by było jeszcze bardziej kształtne i cieńsze.
+
+W rondelku podgrzewamy poastę z oliwą dodajemy czosnek i oregano.
+
+Tak przygotowany sos smarujemy spód pizzy a nastepnie wykładamy na niego dodatki.
+
+Pieczemy w tem. 270 stopni 5-7 minut.",4,30,20,50,0.0,0,dania główne,,2026-03-13T21:17:52,2026-09-28T19:21:07,1
+R055,Schab w sosie własnym,Dania główne,"1. PRZYGOTOWANIE W szerokim garnku rozgrzać łyżkę oleju i zeszklić posiekaną cebulę, dodać pozostałe dwie łyżki oliwy, przesunąć cebulę na bok i włożyć plastry schabu.
+
+2. Obsmażyć z obu stron do zrumienienia, następnie doprawić solą i zmielonym pieprzem.
+
+3. Wlać gorący bulion (lub rosól).
+
+4. Doprawić mieloną papryką oraz listkiem laurowym i zielem angielskim.
+
+5. Przykryć i dusić na małym ogniu ok. 1 godz. i 20 minut, do miękkości mięsa.
+
+6. Na patelni dobrze rozgrzać masło, dodać mąkę i chwilę podsmażyć mieszając.
+
+7. Przełożyć do garnka, dokładnie wymieszać i zagotować.",4,20,30,50,0.0,0,dania główne,,2026-02-25T18:55:15,2026-03-12T17:12:06,1
+R056,Wegetariańskie leczo z kaszą pęczak,Dania główne,"1. Składniki leczo pokroić i dusić w garnku.
+
+2. Leczo doprawić do smaku.
+
+3. Leczo podawać z kaszą.",4,20,30,50,0.0,0,"dania główne,warzywa",,2026-02-25T17:12:49,2026-03-10T13:57:43,1
+R057,Żurek z jajkiem i kiełbasą z indyka,Zupy,"1. Do wody dodać odpowiednią ilość żurku (według uznania) oraz czosnek.
+
+2. Żurek gotować wraz z kiełbasą.
+
+3. Żurek podawać z jajkiem.",6,20,60,80,0.0,0,zupy,,2026-02-25T17:21:14,2026-09-28T19:21:07,1
+R058,Delikatny gulasz z indyka,Dania główne,"1. Mięso oczyszczamy i kroimy w kostkę.
+
+2. Dodajemy odrobinę oliwy, dużą szczyptę soli i po trochu papryki słodkiej, pieprzu, oregano i tymianku.
+
+3. Mieszamy i wkładamy na jakiś czas do lodówki.
+
+4. Suszone śliwki przekrawamy na pół i wraz z rodzynkami namaczamy w letniej wodzie (ok. pół szklanki).
+
+5. Cebulę obieramy i kroimy w kostkę.
+
+6. Marchewki obieramy i kroimy w plasterki.
+
+7. Paprykę kroimy w kostkę.
+
+8. Papryczkę chili kroimy w plasterki.
+
+9. Czosnek obieramy i kroimy w cienkie plasterki.
+
+10. W sporym rondlu rozgrzewamy łyżkę oliwy lub oleju i obsmażamy mięso na złoty kolor.
+
+11. W tym samym czasie na patelni rozgrzewamy łyżkę oliwy lub oleju i podsmażamy cebulę.
+
+12. Zdejmujemy cebulę z patelni, wrzucamy marchewkę i paprykę i podsmażamy.
+
+13. Dodajemy posiekany czosnek i papryczkę chili (jeśli używamy sproszkowanego chili, dodajemy ok. pół łyżeczki).
+
+14. Dodajemy też łyżeczkę papryki słodkiej i po szczypcie majeranku, oregano i tymianku.
+
+15. Po ok. 10 minutach zawartość patelni wrzucamy do rondla z podsmażonym mięsem.
+
+16. Dodajemy również podsmażoną wcześniej cebulę.
+
+17. Mieszamy składniki.
+
+18. Podlewamy gulasz odrobiną wody.
+
+19. Dodajemy listek laurowy i kilka kulek ziela angielskiego.
+
+20. Dusimy danie małym ogniu ok. 15 minut.
+
+21. Dodajemy łyżeczkę kurkumy i papryki słodkiej, pół łyżeczki pieprzu, po dużej szczypcie oregano, tymianku i majeranku oraz namoczone rodzynki i śliwki (wraz wodą).
+
+22. Dusimy kolejnych 15 minut.
+
+23. Solimy do smaku.
+
+24. Dodajemy 3-4 łyżki jogurtu naturalnego, mieszamy, dusimy danie jeszcze 5 minut.",4,25,90,115,0.0,0,dania główne,,2026-02-25T16:01:47,2026-03-10T09:58:01,1
+R059,Pieczona rolada z cukinią i rukolą,Dania główne,"1. Oddzielić żółtka od białek.
+
+2. Do mąki dodać sól, mleko, żółtka i 2 łyżki wody, wymieszać.
+
+3. Ciasto odstawić na 10 min.
+
+4. Rozgrzać piekarnik do 180°C.
+
+5. Pianę z białek ubić na sztywno.
+
+6. Dodać do ciasta, dołożyć posiekaną rukolę i delikatnie wymieszać.
+
+7. Blachę do pieczenia wyłożyć papierem pergaminowym, wylać na nią ciasto cienką warstwą, uformować prostokąt 35x40 cm.
+
+8. Piec 15 min, wyjąć, schłodzić. 2.
+
+9. Cukinię umyć, pokroić na cienkie plasterki, smażyć partiami na oleju z każdej strony.
+
+10. Doprawić do smaku. 3.
+
+11. Ajwar wymieszać ze śmietaną i posiekaną natką pietruszki.
+
+12. Na upieczone ciasto wyłożyć cukinię, posypać startą mozzarellą, polać sosem z ajwaru i śmietany.
+
+13. Zwinąć jak roladę, posypać z wierzchu startym żółtym serem.
+
+14. Wstawić do piekarnika nagrzanego do 200°C, piec 10 min.
+
+15. Wyłożyć na półmisek, pokroić w plastry, podawać gorące.",4,20,30,50,0.0,0,"dania główne,warzywa",,2026-02-25T18:54:47,2026-03-11T08:11:08,1
+R060,Kaczka pieczona z jabłkami,Dania główne,"1. Przygotowujemy kaczkę - myjemy, osuszamy, czyścimy z piór (pęsetą lub szczypcami opalając nad ogniem).
+
+2. Odcinamy końcówki skrzydeł oraz kuperek.
+
+3. Roztartymi goździkami nacieramy całą kaczkę.
+
+4. Jabłka kroimy w ósemki i pozbawiamy je gniazd nasiennych.
+
+5. Jabłka, śliwki i gałązki tymianku wkładamy do środka.
+
+6. Tak przygotowaną kaczkę pieczemy na blacie w piekarniku przez 3 godziny w 90 stopniach.
+
+7. Po tym czasie, kaczkę wyjmujemy i ustawiamy ją pionowo (można wykorzystać naczynie do pieczenia kurczaka) i owijamy folią aluminiową.
+
+8. Pozostawiamy kaczkę na 30 minut.
+
+9. Zdejmujemy folię i wstawiamy kaczkę do piekarnika nagrzanego do 220 stopni na 20 minut (można umieścić ją na ruszcie lub wstawić do naczynia do pieczenia kurczaka lecz bezwzględnie musimy wylać wcześniejszy tłuszcz).",4,20,90,110,0.0,0,dania główne,,2026-02-25T16:32:17,2026-09-28T19:21:07,1
+R061,Bigos wykwintny,Dania główne,"Borowiki opłukać w wodzie, odcedzić, wlać 1/2 szklanki nowej zimnej wody, odstawić do namoczenia. 
+
+Śliwki suszone pokroić na połówki, włożyć do miseczki, zalać czerwonym winem, odstawić do namoczenia. 
+
+Na dużą, rozgrzaną patelnię wlać 1 łyżkę oieju, włożyć mięso pokrojone w 1 cm kosteczkę i obsmażyć dokładnie z każdej strony, mieszając od czasu do czasu.
+
+Dodać zawartość patelni oraz namoczone i posiekane borowiki wraz z zalewą oraz suszone śliwki wraz z winem.
+
+Dodać koncentrat pomidorowy, doprawić solą i wymieszać.
+
+Przykryć i zagotować na większym ogniu. 
+
+Ciągle gotując dodawać resztę składników: powidła oraz pokrojone w małą kosteczkę lub starte na tarce obrane jabłko.
+
+Wszystko po wymieszaniu przykryć i gotować na umiarkowanym ogniu przez około 2 godziny. 
+
+Podczas gotowania co jakiś czas bigos zamieszać i sprawdzić czy nie przywiera do dna garnka. 
+
+W połowie gotowania dodać kiełbasę: wcześniej pokroić ją na plasterki i podsmażyć na patelni, dodać do bigosu zarówno kiełbasę jak i wytopiony tłuszczyk. 
+
+Jeśli chcemy w połowie gotowania dodajemy też rozmrożone i pokrojone na plasterki podgrzybki. 
+
+Na koniec gotowania sprawdzić czy bigos jest odpowiednio słony, doprawić go świeżo zmielonym pieprzem i dodać oliwę lub olej. 
+
+Do dużego garnka wlać 1 szklankę wody, dodać sos sojowy i zagotować, włożyć mięso z patelni, przykryć i gotować na małym ogniu przez około 45 minut. 
+
+W międzyczasie pokroić cebulę w małą kosteczkę.
+
+Kiszoną kapustę odcisnąć z soku. 
+
+Białą kapustę obrać z zewnętrznych liści, wyciąć twardy głąb ze środka, resztę drobno posiekać. 
+
+Rozgrzać patelnię po mięsie, dodać łyżkę masła i łyżkę oliwy, włożyć cebulę, listek laurowy, ziele angielskie, jałowiec i kminek, smażyć przez około 5 minut aż cebula będzie szklista i lekko zrumieniona. 
+
+Dodać kapustę kiszoną i smażyć wszystko na większym ogniu mieszając przez 2 minuty, wlać 1/2 szklanki wody i zagotować. 
+
+Do garnka z podgotowanym mięsem dodać posiekaną białą kapustę, wymieszać i gotować przez 5 minut pod przykryciem.",4,40,120,160,0.0,0,dania główne,,2026-02-25T14:54:27,2026-03-10T09:18:07,1
+R062,"Kanapka z wędliną, papryką i ogórkiem",Śniadania,Pieczywo podawać z warzywami i wędliną.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:26:11,2026-03-10T14:21:32,1
+R063,Jogurt naturalny ze śliwkami i otrębami,Śniadania,Do jogurtu dodać śliwki i otręby.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T16:39:30,2026-03-10T13:09:28,1
+R064,Pizza Maćka,Dania główne,"1.
+rozrobić 1/3 drożdzy
+łyżeczka mąki 
+łyżeczka cukru
+2 łyżedczki wody ciepłej
+
+2.
+2 szklanki mąki pszennej
+1/2 łyżeczki soli
+2 łyżeczki cukru
+1/3 szklanki mleka
+1 jajko
+2 łyżki oleju",4,30,20,50,0.0,0,dania główne,,2026-03-13T20:24:00,2026-09-28T19:21:07,1
+R065,Cukinie z farszem,Dania główne,"Na patelni zeszklić cebulę i czosnek
+
+Zwiększyc ogień i dodać mięso. Smażyć 5 minut.
+
+Dodać sos sojowy oraz przyprawy. Smażyć 1 minutę, nastepnie wlać gorący bulion wsypać ryż i zagotować. Przykryć pokrywką i gotować 25 minut. Jeśli na koniec pozostanie płyn należy go wygotować bez przykrycia.
+
+Cukinie piec w 180 stopniach 10 minut.
+
+Do mięsa dodać miąższ cukini i pomidora pod koniec natkę piertuszki.
+
+Po przestudzeniu dodać jajko, wymieszać. 
+
+Farszem wypełnic cukinie.
+
+Posypać startym serem i ułożyć plasterki pomidora.
+
+Piec około 25 minut w 180 stopniach.",4,20,30,50,0.0,0,"dania główne,warzywa",,2026-03-15T08:50:21,2026-09-28T19:21:07,1
+R066,"Młoda kapusta z piersią z kurczaka, koperkiem i kaszą gryczaną",Dania główne,"1. Kaszę ugotować ai dente w lekko osolonej wodzie.
+
+2. Kapustę drobno posiekać.
+
+3. W tym czasie do głębokiej patelni wlać olej, wrzucić posiekaną cebulę i pokrojone w kostkę mięso, przyprawić papryką, solą, pieprzem i poddusić ok. 5 minut.
+
+4. Następnie wrzucić posiekaną kapustę, liść laurowy, ziele angielskie, zalać wodą i dusić pod przykryciem ok. 10 minut.
+
+5. Na koniec wsypać ugotowaną kaszę, posiekany koperek i wymieszać.",4,20,30,50,0.0,0,dania główne,,2026-02-25T17:22:20,2026-03-10T14:14:52,1
+R067,Ciastka miętowe,Inne,"1. Do miski z miętą wsypujemy cukier i blendujemy.
+
+2. Dodajemy jajko i ponownie dokładnie blendujemy składniki.
+
+3. Do powstałej masy wsypujemy mąkę i dokładamy masło.
+
+4. Wszystkie składniki dokładnie łączymy ze sobą.
+
+5. Dodajemy proszek do pieczenia i kawałki czekolady.
+
+6. Całość dokładnie mieszamy łyżką.
+
+7. Po przygotowaniu ciasta musimy uformować ciasteczka.
+
+8. Najpierw posmarujmy dłonie masłem, po to, by ciasto nie kleiło się do rąk.
+
+9. Teraz możemy formować nieduże kulki.
+
+10. Układamy je na papierze do pieczenia w piekarniku.
+
+11. Z przygotowanego ciasta powinniśmy uzyskać 12 ciastek.
+
+12. Pieczemy je 15 minut w temperaturze 180 stopni.
+
+13. Ciastka po upieczeniu mają delikatny miętowy kolor i pięknie pachną.",12,20,15,35,0.0,0,"przekąski / dodatki,wypieki",,2026-02-25T15:18:03,2026-03-10T09:37:06,1
+R068,"Kanapki z wędliną, serem białym, pomidorem i ogórkiem kiszonym",Śniadania,Pieczywo skropić oliwą. Produkty położyć na pieczywo.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T16:45:17,2026-03-10T13:20:27,1
+R069,Ciasto kruche pod jabłecznik,Ciasta,"Pianę ubić z 1 szklanką cukru
+
+Ciasto - jabłka - piana - kruszonka",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-03-12T19:33:52,2026-09-28T19:21:07,1
+R070,Sos do mięs i plackóww,Inne,"jogurt naturalny
+łyżka majonezu
+ząbek czosnku
+sól, pieprz
+pokrojone listki mięty",4,20,30,50,0.0,0,sosy / dodatki,,2026-03-13T20:48:57,2026-09-28T19:21:07,1
+R071,Pieczona biała kiełbasa w sosie chrzanowym,Dania główne,"1. Piekarnik nagrzać do 160 stopni C.
+
+2. Do naczynia żaroodpornego włożyć ponacinaną kiełbasę.
+
+3. Cebulę obrać, przekroić na pół a następnie pokroić na plasterki..Włożyć na patelnię z olejem i smażyć na umiarkowanym ogniu przez ok. 3 minuty aż będzie szklista.
+
+4. Wyłożyć ją na kiełbasę.
+
+5. Posypać pokrojoną w kosteczkę papryką czerwoną oraz pomarańczową a także obraną i pokrojoną na cienkie plasterki marchewką (kilka plasterków można zostawić na wierzch).
+
+6. Wstawić do piekarnika i piec bez przykrycia przez ok. 45 minut.
+
+7. Składniki sosu wymieszać w miseczce.
+
+8. Polać po kiełbasie, posypać odłożoną marchewką i piec przez ok. 20 minut bez przykrycia.
+
+9. Wyjąć z piekarnika, posypać natką i podawać z dodatkami.",4,20,30,50,0.0,0,dania główne,,2026-02-25T18:55:28,2026-03-12T17:17:21,1
+R072,Koktajl pomidorowy z siemieniem lnianym,Napoje,"1. Siemię lniane zmielić w młynku.
+
+2. Składniki zmiksować na koktajl.",2,10,0,10,0.0,0,napoje,,2026-02-25T16:45:29,2026-03-10T13:31:47,1
+R073,Kanapka z pastą z fety i suszonych pomidorów,Śniadania,"1. Ser pokruszyć, dodać kawałki pomidorów suszonych i koperek.
+
+2. Składniki można zblendować na pastę.
+
+3. Pieczywo posmarować pastą i położyć warzywa.",1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:08:11,2026-03-10T13:44:09,1
+R074,Kotlety z cukinii,Dania główne,"1. Te kotlety z cukinii szykuję z dodatkiem tartych ziemniaków.
+
+2. Warzywa ścieram na dość grubych oczkach, ale możesz też zetrzeć je na oczkach drobnych.
+
+3. Takie kotlety będą miały bardziej jednolitą strukturę.
+
+4. Jeśli użyjesz bułki tartej bez glutenu, to Twoje kotleciki będą nie tylko wegetariańskie, ale i bezglutenowe.
+
+5. Jeśli zaś masz więcej niż jedną cukinię, to polecam Ci mój przepis na pasztet z cukinii oraz zupę krem z cukinii.
+
+6. Tymczasem jednak skupmy się na pysznych, warzywnych kotletach na bazie cukinii, marchewki i ziemniaków.
+
+7. Kotlety z cukinii Zacznij od umycia warzyw.
+
+8. Wybrałam jedną średniej wielkości cukinię zieloną.
+
+9. Moja cukinia była młoda, więc nie obierałam jej i nie usuwałam gniazda nasiennego.
+
+10. Odcięłam tylko oba końce.
+
+11. Jeśli jednak masz starą cukinię, to obierz ją w całości i wydrąż gniazdo nasienne.
+
+12. Przy starej cukinii możesz sięgnąć po większą sztukę, ponieważ będziesz mieć więcej odpadów.
+
+13. Ziemniaki, cebulę i marchewki również umyj i obierz.
+
+14. Ziemniaki, marchew i cukinię zetrzyj na tarce na grubych lub średnich oczkach (u mnie na grubych - Ja użyłam maszynki z nakładką do siekania warzyw).
+
+15. Cebulę bardzo drobno posiekaj.
+
+16. Szczypiorek czeka na swoją kolej..
+
+17. Tak przygotowane warzywa umieść w misce.
+
+18. Dodaj płaską łyżkę soli i całość wymieszaj.
+
+19. Miskę odstaw na 10 minut, by warzywa puściły wodę.
+
+20. Po tym czasie łap w garść warzywa i bardzo dokładnie odciskaj je z nadmiaru wody.
+
+21. W ten sposób odciśnij całą zawartość miski.
+
+22. Wodę z solą wylej.
+
+23. Odciśnięte z wody warzywa kładź do drugiej, większej miski.
+
+24. Z wodą odejdzie Ci również nadmiar soli, ponieważ płaska łyżka soli to jednak za dużo jak na te kotlety.
+
+25. Do miski dołóż również drobno siekany szczypiorek, dwa jajka, dwie płaskie łyżki skrobi ziemniaczanej, pół szklanki bułki tartej oraz resztę przypraw.
+
+26. Z przyprawami można też bardziej poszaleć.
+
+27. Możesz dać trochę chilli, słodkiej papryki lub użyć pieprzu ziołowego lub pieprzu z dodatkiem czosnku.
+
+28. Drugie pół szklanki bułki wykorzystasz do obtaczania uformowanych kotletów z cukinii.
+
+29. Wszystkie składniki bardzo dobrze wymieszaj.
+
+30. Do miseczki wsyp pozostałą bułkę tartą.
+
+31. Przy pomocy łyżki nabieraj porcję warzyw wielkości średniego orzecha włoskiego.
+
+32. Umieszczaj ją w bułce tartej a następnie obtaczaj.
+
+33. Łap w dłoń i lekko wydłużaj.
+
+34. Ponownie umieszczaj w bułce i odkładaj na talerz.
+
+35. W ten sposób uformuj wszystkie kotleciki.
+
+36. Mi wyszło równo 16 sztuk.
+
+37. Średnią lub dużą patelnię nagrzej dobrze.
+
+38. Nie ustawiaj jednak od razu wysokiej mocy palnika.
+
+39. Ustaw średnią moc i pozwól, by patelnia równomiernie się nagrzała.
+
+40. Wlej część oleju.
+
+41. Wyłóż pierwszą partię kotletów z cukinii.
+
+42. Kotlety smaż na odrobinę niższej niż średnia moc palnika.
+
+43. Musisz samodzielnie zdecydować kiedy i o ile zmniejszyć moc, ponieważ każdy ma inną kuchenkę oraz grubość patelni.
+
+44. Ważne jednak, by kotlety smażyły się 6-8 minut na stronę.
+
+45. Warzywa mają mieć czas, by się dosmażyć.
+
+46. Kotlety nie mogą się przypalić, a ładnie zarumienić.
+
+47. Rumiane i pachnące kotlety z cukinii smakują rewelacyjnie podane z domowym sosem na zimno.
+
+48. Sos czosnkowy zrobisz w pięć minut.
+
+49. Jeśli kotletów nie włożysz do lodówki, to zapewniam, że po przestudzeniu smakują jeszcze lepiej :) Sprawdziły to moje dzieci a kotlety nie miały szans na to, by wylądować w lodówce do drugiego posiłku.",4,25,20,45,0.0,0,"dania główne,warzywa",,2026-02-25T17:26:39,2026-03-11T07:54:12,1
+R075,"Kanapka z serem białym, ogórkiem i rzodkiewką",Śniadania,Na pieczywo położyć ser biały i warzywa.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:22:06,2026-03-10T14:12:41,1
+R076,Muffinki z rabarbarem,Ciasta,"1. jajka roztrzepać z cukrem, jogurtem, olejem i skórką z cytryny.
+
+2. Mąkę przesiać z proszkiem i sodą, wsypać do mokrych składników.
+
+3. Wymieszać łyżką krótko i niezbyt dokładnie.
+
+4. Dodać rabarbar i ponownie wymieszać.
+
+5. Składniki kruszonki rozetrzeć palcami.
+
+6. Formę (22x33cm) wyłożyć papierem do pieczenia, wylać ciasto, posypać kruszonką.
+
+7. Wstawić do nagrzanego piekarnika, piec ok 40-45 minut w temp. 170stC (termoobieg) do suchego patyczka.
+
+8. Studzić najpierw w formie, a następnie przenieść na kratkę.
+
+9. Przed podaniem ciasto można oprószyć cukrem pudrem.
+
+10. Można również upiec muffinki, wykładając ciasto do foremek z papilotkami.
+
+11. Czas pieczenia wyniesie 20-25 minut.
+
+12. Udanych wypieków!",8,20,50,70,0.0,0,"ciasta,wypieki",,2026-02-25T18:53:17,2026-03-11T07:57:06,1
+R077,"Filet w sezamie z kaszą, szparagami i suszonymi pomidorami",Dania główne,"1. Mięso pokroić w plastry, przyprawić solą i pieprzem, otoczyć w sezamie.
+
+2. Ugotować kaszę, odcedzoną i ciepłą wymieszać z posiekanymi suszonymi pomidorami.
+
+3. Na oleju poddusić posiekaną cebulę, przez ok. 2 minuty.
+
+4. Następnie dodać ją do kaszy z pomidorami i wymieszać.
+
+5. Na patelni po duszeniu cebuli usmażyć kurczaka w sezamie.
+
+6. Fasolkę ugotować.
+
+7. Filety podawać z kaszą i fasolką.",4,20,30,50,0.0,0,dania główne,,2026-02-25T16:32:33,2026-03-10T10:14:55,1
+R078,Kalafior zapiekany z pomidorem i cebulą,Dania główne,"1. Do naczynia żaroodpornego wlać olej i wrzucić kalafiora.
+
+2. Składniki wymieszać.
+
+3. Następnie dodać pokrojoną wędlinę, pomidora i cebulę.
+
+4. Zapiekankę piec w piekarniku nagrzanym do 200 stopni C ok. 8 minut.
+
+5. Zapiekankę podawać z pieczywem.",4,20,30,50,0.0,0,"dania główne,warzywa",,2026-02-25T17:25:23,2026-03-10T14:16:33,1
+R079,Pierogi ruskie,Dania główne,"Przygotowujemy ciasto na pierogi z podwójnej ilości składników. 
+
+Przygotowujemy nadzienie: obieramy i płuczemy ziemniaki, wkładamy do garnka, dodajemy sól, przykrywamy zimną wodą i zagotowujemy. Gotujemy całość pod uchyloną przykrywą ok. 30 minut. Odcedźamy, wkładamy na powrót do garnka, a gorące ziemniaki roztłukujemy tłuczkiem aż do uzyskania gładkiej masy bez grudek. Na koniec studzimy ziemniaki i odparowujemy.
+
+Następnie kruszymy ser, rozgniatamy go widelcem lub praską. Mieszamy go z ziemniakami, a całość doprawiamy solą i pieprzem. Kroimy cebulę w kostkę i szklimy na maśle, dodajemy do nadzienia, mieszamy. 
+
+W dalszej kolejności szklanką wycinamy kółeczka z ciasta, a na środek nakładamy po pełnej łyżce przygotowanego wcześniej farszu. Składamy ciasto na pół, zlepiamy dokładnie brzegi (ostrożnie, by nadzienie nie znalazło się w miejscu sklejenia). Gotowe pierogi układamy na blacie posypanym mąką. Przykrywamy je czymś na czas gotowania, aby nie obeschły. 
+
+Gotujemy pierogi w dużym garnku z osoloną wodą (można też dodać łyżkę oleju lub masła) do czasu aż wypłyną na powierzchnię. Pierogi wyławiamy łyżką cedzakową. Gotowe pierogi podajemy kwaśną śmietaną, roztopionym masłem lub smażonym pokrojonym boczkiem (skwarkami).",4,60,20,80,0.0,0,dania główne,,2026-02-25T09:15:20,2026-02-25T15:09:44,1
+R080,Koktajl owocowy,Napoje,Wszystko zmiksować dokładnie.,2,10,0,10,0.0,0,napoje,,2026-03-12T20:22:12,2026-09-28T19:21:07,1
+R081,Owsianka na mleku z jabłkiem i orzechami,Śniadania,"1. Siemię lniane zmielić w młynku.
+
+2. Płatki ugotować na mleku.
+
+3. Owsiankę wymieszać z pokrojon",2,5,10,15,0.0,0,"śniadania,szybkie",,2026-02-25T17:12:07,2026-03-10T13:45:36,1
+R082,Jogurt naturalny z jabłkiem i orzechami,Śniadania,Jogurt podawać z jabłkiem i orzechami.,1,10,0,10,0.0,0,"śniadania,szybkie",,2026-02-25T17:13:35,2026-03-10T14:11:38,1
+R083,Napar jabłkowy,Napoje,"1. Przygotowanie: 1 Pokrój jabłka w plasterki, wrzuć do garnka razem z laskę cynamonu, goździkami i anyżem oraz zalej 1 litrem wody.
+
+2. Doprowadź do wrzenia i gotuj na wolnym ogniu 15 minut.
+
+3. Odcedź napar i dodaj miodu.",2,5,15,20,0.0,0,napoje,,2026-02-25T18:53:38,2026-03-11T07:58:17,1
+R084,Kanapki szwedzkie,Śniadania,Pieczywo posmarować ser,1,10,0,10,0.0,1,"śniadania,szybkie",,2026-02-25T17:13:16,2026-03-10T14:10:58,1
+R085,Barszcz Ukraiński,Zupy,"Umyć porcję rosołową. Zdjąć z niej skórę, jeśli bulion ma nie być zbyt tłusty. Włożyć mięso do garnka, zalać ok. 2 l wody i gotujemy. Pokroić marchewkę i pietruszkę w kostkę lub paski.
+
+Kiedy mięso zacznie wrzeć, zmniejszyć ogień i dodać do niego marchew, pietruszkę, selera, por, ziele angielskie, liście laurowe, gotować na małym ogniu ok. godzinę. 
+
+Umyć buraki i gotować w osolonej wodzie, aż będą miękkie. Kiedy buraki przestygną obrać je ze skóry, a następnie zetrzeć na dużych oczkach tarki.
+
+Posiekać kapustę i zagotować w lekko osobnej wodzie. Przecedzić bulion, oddzielić mięso od kostki i z powrotem dodać do bulionu.
+
+Ziemniaki obrać i pokroić w kostkę, a następnie dodać do bulionu i gotować ok 15min. 
+
+Pod koniec gotowania bulionu dodać do niego kapustę.
+
+Obrać cebulę i pokroić ją w kostkę, a następnie poddusić na maśle na rozgrzanej patelni. Do cebuli dodać buraki i sos pomidorowy. Wszystko podsmażyć, mieszając co chwilę.
+
+Zasmażkę oraz fasolkę z puszki dodać do bulionu. Wszystko gotować przez chwilę.
+
+Barszcz ukraiński doprawić do smaku i podawać od razu po zdjęciu z ognia.",6,20,60,80,0.0,0,zupy,,2026-02-25T09:22:23,2026-09-28T19:21:07,1
+R086,Sałatka z botwinki z fetą,Sałatki,"1. Zagotować wodę do ugotowania buraczków.
+
+2. Botwinkę umyć, odciąć buraczki, wrzucić buraczki do wrzątku i gotować aż będą jędrne (ok. 15 minut, w zależności od wielkości).
+
+3. Wyłowić z wody, obrać i pokroić na plasterki. • Wybrać najmniejsze i średnie (najbardziej jędrne i ładne) liście botwinki i posiekać je wraz z łodyżkami na desce.
+
+4. Resztę liści można wykorzystać do surówki z botwinki lub do zupy itp. • Do dwóch salaterek rozłożyć liście rukoli i botwinki, przemieszać.
+
+5. Dodać pokrojone buraczki oraz pokrojony w kosteczkę ser. • Wyłuskać granat i posypać po sałatce.
+
+6. Wymieszać składniki sosu i polać po sałatce. • Do sałatki można też dodać orzechy włoskie (lekko podprażone i posiekane).",4,20,30,50,0.0,0,"sałatki,warzywa",,2026-02-25T18:55:01,2026-03-11T08:13:50,1

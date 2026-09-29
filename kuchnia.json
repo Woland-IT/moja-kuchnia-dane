@@ -1,0 +1,5716 @@
+{
+  "wersjaFormatu": 1,
+  "wygenerowano": "2026-09-29T16:58:28",
+  "zrodlo": "kurator",
+  "przepisy": [
+    {
+      "id": "R001",
+      "nazwa": "Owsianka klasyczna",
+      "kategoria": "Śniadania",
+      "instrukcje": "Brak zapisanych kroków — uzupełnij przy następnym gotowaniu.",
+      "porcje": 2,
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 10,
+      "totalTimeMinutes": 15,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T20:17:39",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "płatki owsiane",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "mleko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R002",
+      "nazwa": "Zupa bosmańska",
+      "kategoria": "Zupy",
+      "instrukcje": "Parówki obrać i ugotować.\n\nPieczarki pokroić w plastry i posmażyć z drobno pokrojoną cebulą.\n\nDo sporego garnka wlać około 2 litrów wody, postawić na ogniu, włożyć parówki dodać pieczarki z cebulą.\n\nKiedy wywar zacznie wrzeć dodać groszek i dwie łyżki koncentratu pomidorowego. Zagotować.\n\nDodać śmietanę z mąką, sól, pieprz.\n\nW bulionówkach posypać tartym serem i pietruszką.",
+      "porcje": 6,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 60,
+      "totalTimeMinutes": 80,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zupy"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T20:44:07",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "parówki",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "pieczarki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "groszek konserwowy",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "koncentrat pomidorowy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 100,
+          "jednostka": "ml",
+          "nazwa": "śmietana",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "ser żółty",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R003",
+      "nazwa": "Ciasto jogurtowe z truskawkami",
+      "kategoria": "Ciasta",
+      "instrukcje": "Masło ucieramy z cukrem, cały czas ucierając wbijamy po jednym jajku.\n\nDodajemy mąkę przesianą z proszkiem do pieczenia, jogurt.\n\nRobimy to na przemian mąka-jogurt, mąka-jogurt (WAŻNE)\n\nDelikatnie wymieszać łyżką.\n\nWylewamy na tortownice natłuszczoną i obsypujemy bułką tartą.\n\nNa wierzch nakładamy truskawki.\n\nPieczemy w nagrzanym do 160 stopni piekarniku około 50 minut!",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "szybkie",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T20:12:44",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 250,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "truskawki",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "bułka tarta",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R004",
+      "nazwa": "Quiche ze szpinakiem i kurczakiem",
+      "kategoria": "Zapiekanki",
+      "instrukcje": "1. Wszystkie składniki na ciasto zagniatamy, tak by powstała jednolita masa.\n\n2. Następnie owijamy ciasto w folię spożywczą i odstawiamy do lodówki na około 1 godzinę.\n\n3. W tym czasie przygotowujemy farsz.\n\n4. Pierś z kurczaka kroimy w drobną kostkę i podsmażamy na patelni na złoty kolor.\n\n5. Szpinak rozmrażamy, łączymy z kurczakiem i doprawiamy całość solą oraz pieprzem.\n\n6. Natłuszczamy formę do tortownicy. % Schłodzone w lodówce ciasto rozwałkowujemy i wylepiamy nim dno oraz boki formy.\n\n7. Ciasto nakłuwamy widelcem i przykrywamy je papierem do pieczenia.\n\n8. Następnie obciążamy papier wysypując na niego na przykład groch.\n\n9. Wkładamy ciasto do piekarnika nagrzanego do 180 stopni Celsjusza.\n\n10. Podpiekamy przez 20 minut.\n\n11. W tym czasie przygotowujemy sos.\n\n12. Miksujemy ze sobą wszystkie składniki: jajka, mleko, śmietanę oraz serek.\n\n13. Następnie przyprawiamy całość ulubionymi przyprawami, dodajemy ser i mieszamy.\n\n14. Na podpieczone ciasto wykładamy równomiernie farsz, a następnie zalewamy całość sosem.\n\n15. Quiche pieczemy około 20-25 minut w 180 stopniach Celsjusza, a następnie odstawiamy go na około 15 minut.",
+      "porcje": 4,
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 45,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zapiekanki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:54:33",
+      "dataEdycji": "2026-03-11T08:05:57",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 250,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 125,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 0.5,
+          "jednostka": "łyżeczka",
+          "nazwa": "sól",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "zimna woda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pierś z kurczaka",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 1,
+          "jednostka": "opak",
+          "nazwa": "szpinak mrożony",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "mleko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 3,
+          "jednostka": "łyżka",
+          "nazwa": "śmietana kwaśna",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 10,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "serek twarogowy",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 11,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "ser żółty",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R005",
+      "nazwa": "Zapiekanka ziemniaczana",
+      "kategoria": "Zapiekanki",
+      "instrukcje": "PATRZ W INSTRUKCJI \npiec w 160 stopniach aż będzie złoto brązowe.\n\nSOS\nWymieszaj: jajko, śmietanę, pietruszkę, sól, pieprz, podsmażona szynka i pokrojony ser \n\nZiemniaki pokrój w (sprawdzić w pliku) i ułóż na dnie naczynia wysmarowanego tłuszczem, przykryj plastrami pomidora, cebulą, plastrami ogórka i pokrojoną papryką, zalej sosem. \n\nPoprawnie ułóż ziemniaki i posyp papryką. \n\nUłóż warstwę pomidorów i ogórków i cebulę\n\nZalej sosem, posyp resztę sera.",
+      "porcje": 4,
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 45,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zapiekanki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T20:30:27",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 800,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jajko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "śmietana",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "szynka",
+          "notatka": null,
+          "kategoria": "Wędliny"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "ser żółty",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "ogórek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R006",
+      "nazwa": "Jajecznica z cebulą",
+      "kategoria": "Śniadania",
+      "instrukcje": "1. Pieczywo skropić oliwą i podawać z warzywami.\n\n2. Jajecznicę usmażyć z posiekaną cebulą",
+      "porcje": 2,
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 10,
+      "totalTimeMinutes": 15,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:21:37",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 10,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R007",
+      "nazwa": "Pierś z indyka pieczona podawana kaszą pęczak i surówką",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Pierś z indyka posypać przyprawami, skropić łyżeczką oleju i piec w piekarniku nagrzanym do 180 stopni C ok. 25 minut.\n\n2. Kaszę posypać natką pietruszki.\n\n3. Marchewkę zetrzeć na tarce.\n\n4. Surówkę skropić olejem.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:44:06",
+      "dataEdycji": "2026-03-10T13:11:37",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "pierś z indyka",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "kasza pęczak",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "marchew",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R008",
+      "nazwa": "Jabłkowo-cynamonowe ciasto z orzechami i migdałami",
+      "kategoria": "Ciasta",
+      "instrukcje": "1. Jajka ubić mikserem ze szklanką cukru. \n\n2. Przesianą mąkę połączoną z sodą, proszkiem i cynamonem dodawać powoli do jajek ubitych z cukrem.\n\n3. Miksować na wolnych obrotach. \n\n4. Na koniec dodać pokrojone w kostkę jabłka, olej, orzechy oraz migdały.\n\n5. Wymieszać łyżką. \n\n6. Ciasto przelać do natłuszczonej tortownicy, piec w 180 stopniach ok. 50 minut. 5 ciasto zawsze się udaje, pięknie pachnie podczas pieczenia.\n\n7. Najbardziej lubię na ciepło, z filiżanką herbaty cynamonowej.",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:19:02",
+      "dataEdycji": "2026-03-10T10:07:32",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "szklanka",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "szklanka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "soda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 3,
+          "jednostka": "łyżeczka",
+          "nazwa": "cynamon",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 5,
+          "jednostka": "szt",
+          "nazwa": "jabłka",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 0.66,
+          "jednostka": "szklanka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "orzechy włoskie",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 10,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "migdały",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R009",
+      "nazwa": "Placki ziemniaczane",
+      "kategoria": "Dania główne",
+      "instrukcje": "Brak zapisanych kroków — uzupełnij przy następnym gotowaniu.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 20,
+      "totalTimeMinutes": 40,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T20:47:41",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 800,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jajko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R010",
+      "nazwa": "Brokuły z sosem czosnkowym",
+      "kategoria": "Inne",
+      "instrukcje": "1. Brokuły podzielić na różyczki i wrzucić do wrzątku na 4-5 minut.\n\n2. Wyjąć i osuszyć.\n\n3. Jogurt wymieszać z cząbrem, czosnkiem, solą i szczyptą pieprzu, wymieszać.\n\n4. Brokuły przełożyć do miseczki, dodać pokrojone na pół pomidorki, całość wymieszać, polać sosem i posypać pestkami dyni.",
+      "porcje": 4,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 10,
+      "totalTimeMinutes": 20,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "przekąski / dodatki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:13:03",
+      "dataEdycji": "2026-03-10T14:09:23",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "brokuł",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "ząbek",
+          "nazwa": "czosnek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 10,
+          "jednostka": "szt",
+          "nazwa": "pomidorki koktajlowe",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "pestki dyni",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R011",
+      "nazwa": "Gyros z ryżem i kurczakiem",
+      "kategoria": "Zapiekanki",
+      "instrukcje": "1. Ugotuj ryż do miękkości. 2.\n\n2. Filet z kurczaka pokrój w kostkę, dopraw 1 łyżką przyprawy gyros. 3.\n\n3. Cebulę pokrój w piórka. 4.\n\n4. Na patelni rozgrzej niewielką ilość oleju, podsmaż kurczaka, a następnie dodaj cebulkę i podsmaża całość jeszcze minutę. 5.\n\n5. Pokrój ogórki, paprykę, pomidora (lub pomidorki suszone).\n\n6. Kukurydzę odcedź z zalewy. 6.\n\n7. Zetrzyj ser na tarce. 7.\n\n8. Przygotuj sos: w miseczce wymieszaj śmietanę, majonez, ketchup i 1 łyżkę przyprawy gyros. 8.\n\n9. W naczyniu żaroodpornym układaj kolejno: ryż, połowę sosu, połowę sera, kurczaka z cebulką, ogórki, paprykę, pomidora, kukurydzę, resztę sosu i resztę sera. 9.\n\n10. Wstaw zapiekankę do nagrzanego piekarnika na 170 stopni Celsjusza i piecz 30 minut. 10.\n\n11. Opcjonalnie możesz posypać gotową zapiekankę posiekanym szczypiorkiem.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zapiekanki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:31:56",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "ryż",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "filet z kurczaka",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "przyprawa gyros",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "ogórek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1,
+          "jednostka": "puszka",
+          "nazwa": "kukurydza",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "ser żółty",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 10,
+          "ilosc": 100,
+          "jednostka": "ml",
+          "nazwa": "śmietana",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 11,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "majonez",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 12,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "ketchup",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R012",
+      "nazwa": "Ciasto dyniowe",
+      "kategoria": "Ciasta",
+      "instrukcje": "Maka, cukier, proszek do pieczenia, sól, soda, przyprawy do jednej miski\n\njajka, maślanka, pure z dynii, rozpuszczone masło w drugiej misce ubij trzepaczką lekko\n\nMokre dodaj do suchego i połącz łyżką\n\nWlej do formy do piekarnika nagrzanego do 180 stopni 40-50 minut do suchego patyka",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T21:36:39",
+      "dataEdycji": "2026-03-13T21:23:01",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szklanka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szklanka",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "soda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "maślanka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "puree z dyni",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 80,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R013",
+      "nazwa": "Sałatka z fasoli czerwonej i tuńczyka",
+      "kategoria": "Sałatki",
+      "instrukcje": "1. Składniki sałatki wymieszać i polać jogurtem.\n\n2. Sałatkę podawać z pieczywem.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "sałatki",
+        "warzywa"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:38:01",
+      "dataEdycji": "2026-03-10T10:18:01",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "puszka",
+          "nazwa": "fasola czerwona",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "puszka",
+          "nazwa": "tuńczyk",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R014",
+      "nazwa": "Gratin dauphinois",
+      "kategoria": "Zapiekanki",
+      "instrukcje": "1. Ogrzej piekarnik do temperatury 200 stopni. \n\n2. Ziemniaki obierz ze skóry i pokrój w cienkie plasterki przy pomocy robota kuchennego Magimix.\n\n3. Robot błyskawicznie przerabia taką ilość ziemniaków (czyli przeszło kilogram) - zajęło to dosłownie 10 sekund. 3.\n\n4. Naczynie do zapiekania natłuść masłem.\n\n5. Wcześniej możesz natrzeć je czosnkiem; ja pomijam ten etap. 4. b. 6. 7. 8. 9.\n\n6. Plasterki ziemniaków ułóż w naczyniu warstwami w taki sposób, by zachodziły na siebie na ok. 5-10 mm.\n\n7. Układaj, aż zużyjesz wszystkie ziemniaki.\n\n8. Co kilka warstw oprósz ziemniaki solą, pieprzem i dużą szczyptą świeżo startej gałki muszkatołowej.\n\n9. Zetrzyj ser na tarce.\n\n10. Wymieszaj go ze śmietaną, dużą szczyptą pieprzu i gałki muszkatołowej.\n\n11. Wyłóż masę serowo-śmietanową na wierzch zapiekanki.\n\n12. Przykryj naczynie pokrywką lub folią aluminiową (szczelnie) i wstaw do piekarnika na 60 minut.\n\n13. Zdejmij pokrywkę i piecz jeszcze ok. 10-15 minut, by wierzch zapiekanki przyrumienił się i nabrał mocno złotego koloru.",
+      "porcje": 4,
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 45,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zapiekanki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:01:29",
+      "dataEdycji": "2026-03-10T09:52:50",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1200,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "ser Gruyère",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "crème fraîche",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "gałka muszkatołowa",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 20,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R015",
+      "nazwa": "Jogurt naturalny z bananem",
+      "kategoria": "Śniadania",
+      "instrukcje": "Do jogurtu dodać truskawki, orzechy i otręby.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:20:52",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "banan",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 15,
+          "jednostka": "g",
+          "nazwa": "orzechy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 10,
+          "jednostka": "g",
+          "nazwa": "otręby",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R016",
+      "nazwa": "Jogurt naturalny z borówką",
+      "kategoria": "Śniadania",
+      "instrukcje": "Jogurt podawać z borówką i orzechami.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:21:51",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "borówki",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 15,
+          "jednostka": "g",
+          "nazwa": "orzechy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R017",
+      "nazwa": "Gofry",
+      "kategoria": "Ciasta",
+      "instrukcje": "Można dodać ulubione dodatki.\n\nJajka ubijamy do miski i miksujemy do spienienia\n\nDodaj serek wiejski razem ze śmietaną (całe opakowanie) i mieszaj łyżką.\n\nDodaj olej, cukier zwykły i waniliowy i 4 czubate łyżki mąki.\n\nMieszaj łyżką by nie było grudek.\n\nNakładaj do rozgrzanej gofrownicy kolejne porcje gofrów.",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T20:30:00",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "serek wiejski",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "śmietana",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 4,
+          "jednostka": "łyżka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R018",
+      "nazwa": "Paszteciki drożdżowe",
+      "kategoria": "Inne",
+      "instrukcje": "Wyrób w misce\n\nDrożdze i cukier rozpuścić w śmietanie\n\nDo mąki dodać tłuszcz, posiekać dodać pozostałe składnki",
+      "porcje": 12,
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 25,
+      "totalTimeMinutes": 55,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "przekąski / dodatki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T19:30:51",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 25,
+          "jednostka": "g",
+          "nazwa": "drożdże",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "śmietana",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 80,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R019",
+      "nazwa": "Ciasto czekoladowo-piernikowe",
+      "kategoria": "Ciasta",
+      "instrukcje": "1. Piekarnik rozgrzać do 180°C, kwadratową blachę 24 x 24 cm wyłożyć papierem do pieczenia.\n\n2. W misce wymieszać mąkę, kakao, przyprawę do piernika, proszek do pieczenia, sodę i Cynamon.\n\n3. Mikserem ubić masło z cukrem, miodem, wanilią, dodać jajko.\n\n4. Do masy stopniowo wsypywać mąkę z dodatkami na przemian z gorącą wodą, mieszając, aż ciasto będzie gładkie.\n\n5. Ciasto wlać do formy, wyrównać powierzchnię, piec ok. 40 min.\n\n6. Wyjąć z piekarnika i ostudzić, wierzch posmarować powidłami śliwkowymi i polewą czekoladową.",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T15:20:13",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2.5,
+          "jednostka": "szklanka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "kakao",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "przyprawa do piernika",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "soda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "cynamon",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 0.5,
+          "jednostka": "kostka",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "miód",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 10,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jajko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 11,
+          "ilosc": 1,
+          "jednostka": "szklanka",
+          "nazwa": "woda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 12,
+          "ilosc": 3,
+          "jednostka": "łyżka",
+          "nazwa": "powidła śliwkowe",
+          "notatka": null,
+          "kategoria": "Owoce"
+        }
+      ]
+    },
+    {
+      "id": "R020",
+      "nazwa": "Chleb od Maćka",
+      "kategoria": "Pieczywo",
+      "instrukcje": "UWAGA 1\n\nrazem wymieszaj około 30 minut wcześniej\n\nPiec 200 stopni \n\nGóra dół\n\n60-75 minut",
+      "porcje": 4,
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 70,
+      "totalTimeMinutes": 100,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "pieczywo"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T20:22:07",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 7,
+          "jednostka": "g",
+          "nazwa": "drożdże",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 300,
+          "jednostka": "ml",
+          "nazwa": "woda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "sól",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R021",
+      "nazwa": "Kanapka z wędliną, papryką i pomidorem",
+      "kategoria": "Śniadania",
+      "instrukcje": "Pieczywo podawać z wędliną.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:21:03",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "wędliny",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R022",
+      "nazwa": "Pieczony schab podawany z ziemniakiem i kiszoną kapustą",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Nagrzać piekarnik do 180 stopni.\n\n2. Schab opłukać i osuszyć.\n\n3. Natrzeć mięso olejem i przyprawami.\n\n4. Mięso zawinąć szczelnie w papier do pieczenia.\n\n5. Schab piec 50 minut w temperaturze 200 stopni.\n\n6. Ziemniaka ugotować.\n\n7. Mięso podawać z ziemniakami i kiszoną kapustą.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:07:55",
+      "dataEdycji": "2026-03-10T13:42:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 800,
+          "jednostka": "g",
+          "nazwa": "schab",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 600,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "kapusta kiszona",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R023",
+      "nazwa": "Zapiekanka",
+      "kategoria": "Zapiekanki",
+      "instrukcje": "1. Umyte i obrane ziemniaki gotuj w osolonej wodzie ok. 20 minut.\n\n2. Cebulę pokrój w kostkę, czosnek przeciśnij przez praskę, pieczarki również pokrój w kostkę, a bakłażana w półtalarki.\n\n3. Cebulę podsmaż na rozgrzanej oliwie, kiedy zeszkli się, dodaj czosnek.\n\n4. Po dwóch minutach dodaj pieczarki i smaż całość ok. 20 minut.\n\n5. Bakłażana podsmaż na oddzielnej patelni na rozgrzanej oliwie, aż nabierze złoto-brązowego koloru.\n\n6. Ugotowane ziemniaki pokrój w grube plastry i dopraw je dużą ilością pieprzu i przyprawy do ziemniaków.\n\n7. Dodatkowo możesz dodać rozmaryn, suszony czosnek, paprykę mieloną.\n\n8. Dno naczynia żaroodpornego wyłóż szczelnie jedną warstwą ziemniaków (z połowy przygotowanych), następnie rozłóż połowę porcji bakłażana i pieczarek z cebulą.\n\n9. Posyp całość obficie startym żółtym serem.\n\n10. Następnie ułóż kolejną warstwę: ziemniaki - bakłażan - cebula z pieczarkami.\n\n11. Górę oprósz serem żółtym.\n\n12. Naczynie z warzywami włóż do piekarnika na ok. 45 minut i piecz temperaturze 180 st.\n\n13. Jeśli góra za szybko zbrązowieje, możesz przykryć naczynie folią aluminiową.",
+      "porcje": 4,
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 45,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zapiekanki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:59:06",
+      "dataEdycji": "2026-03-12T17:30:55",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 800,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "ząbek",
+          "nazwa": "czosnek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "pieczarki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "bakłażan",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "ser żółty",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R024",
+      "nazwa": "Kanapki z wędliną, jajkiem, ogórkiem i rzodkiewką",
+      "kategoria": "Śniadania",
+      "instrukcje": "Jajko ugotować. Produkty położyć na kanapkę.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:13:53",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "wędliny",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jajko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "ogórek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "rzodkiewka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R025",
+      "nazwa": "Ciasto z rabarbarem",
+      "kategoria": "Ciasta",
+      "instrukcje": "Rabarbar pokroić na małe kawałki, zasypać 2 łyżkami cukru i odstawić na 20 minut.\n\nJajka ubić z cukrem na puszystą masę dokładnie dodać mąkę pszenną z proszkiem delikatnie wymieszać.\n\nDo rabarbaru dodać 2 łyżki budyniu, wymieszać rabarbar ułożyć na cieście.\n\nNa wierzch zetrzeć zimne masło.\n\nNagrzać piekarnik do 170 stopni piec 40 minut.",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T19:47:43",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "rabarbar",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "budyń",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R026",
+      "nazwa": "Prażona owsianka z borówką i orzechami",
+      "kategoria": "Śniadania",
+      "instrukcje": "Płatki owsiane i orzechy uprażyć na suchej patelni",
+      "porcje": 2,
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 10,
+      "totalTimeMinutes": 15,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:38:47",
+      "dataEdycji": "2026-03-10T10:22:26",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "płatki owsiane",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 30,
+          "jednostka": "g",
+          "nazwa": "orzechy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "borówki",
+          "notatka": null,
+          "kategoria": "Owoce"
+        }
+      ]
+    },
+    {
+      "id": "R027",
+      "nazwa": "Sałatka grecka",
+      "kategoria": "Sałatki",
+      "instrukcje": "1. Warzywa umyć i pokroić.\n\n2. Dodać sałatę, ser feta.\n\n3. Na koniec dodać przyprawy i olej rzepakowy.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "sałatki",
+        "warzywa"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:45:03",
+      "dataEdycji": "2026-03-10T13:14:05",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "ogórek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "ser feta",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "oliwki",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "sałata",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 3,
+          "jednostka": "łyżka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R028",
+      "nazwa": "Makaron ze szparagami",
+      "kategoria": "Sałatki",
+      "instrukcje": "Makaron rurki gotujemy 10 minut w połowie gotowania dodaj pokrojone szparagi. Odcedź i przelej zimną wodą.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "sałatki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T19:37:16",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 250,
+          "jednostka": "g",
+          "nazwa": "makaron rurki",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "pęczek",
+          "nazwa": "szparagi",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R029",
+      "nazwa": "Zupa koperkowa z pulpetami",
+      "kategoria": "Zupy",
+      "instrukcje": "PULPETY\n\nMięso mielone\nKoperek\nCebula starta na tarce\njajko\nnamoczona bułka\n\nwyrobić, formułować małe kotleciki, obtoczyć w bułce lub w mące i smażyć.\n\nZupa\nW garnku na maśle zeszklić drobnie pokrojoną cebulę dodać pokrojone ziemniaki oraz startą na tarce marchew. Dodać sól, pieprz kukurydzę smażyć 5 minut. Wlać gorący bulion zagotować włożyć pulpeciki i gotować 15 minut. Dodać posiekany koper. Zestawić z ognia i dodać śmietanę.",
+      "porcje": 6,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 60,
+      "totalTimeMinutes": 80,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zupy"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T19:59:51",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "mięso mielone",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jajko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "bułka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "marchew",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 1,
+          "jednostka": "puszka",
+          "nazwa": "kukurydza",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1,
+          "jednostka": "l",
+          "nazwa": "bulion",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 100,
+          "jednostka": "ml",
+          "nazwa": "śmietana",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 10,
+          "ilosc": 1,
+          "jednostka": "pęczek",
+          "nazwa": "koperek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R030",
+      "nazwa": "Ciasteczka owsiane",
+      "kategoria": "Inne",
+      "instrukcje": "Wszystkie sypkie składniki mieszamy w dużej misce, dodajemy posiekane masło i jajko, zagniatamy.\n\nCiasto powinno być mokre, ale nie bardzo klejące - aby uzyskać odpowiednią konsystencję, można dodać odrobinę mąki.\n\nCiasto dzielimy dużą łyżką do lodów - powinno wyjść około 20 ciastek.\n\nRozgniatamy na płasko i wyrównujemy boki.\n\n Pieczemy w temperaturze 180 stopni dotąd, az będą rumiane (około 15-20 minut).\n\nWyjmujemy blachę z pieca, odstawiamy na 2-3 minuty\"",
+      "porcje": 12,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "totalTimeMinutes": 35,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "przekąski / dodatki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T15:15:26",
+      "dataEdycji": "2026-03-10T09:31:42",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "szklanka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "kostka",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "cukier puder",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 0.5,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 0.5,
+          "jednostka": "łyżeczka",
+          "nazwa": "soda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jajko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 3,
+          "jednostka": "szklanka",
+          "nazwa": "płatki owsiane",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "żurawina suszona",
+          "notatka": null,
+          "kategoria": "Owoce"
+        }
+      ]
+    },
+    {
+      "id": "R031",
+      "nazwa": "Twarożek z rzodkiewką i szczypiorkiem",
+      "kategoria": "Śniadania",
+      "instrukcje": "1. Ser biały rozgnieść i wymieszać z jogurtem.\n\n2. Do twarożku dodać posiekany szczypiorek i rzodkiewkę.",
+      "porcje": 2,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:21:24",
+      "dataEdycji": "2026-03-10T14:18:58",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "twaróg",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "rzodkiewka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "pęczek",
+          "nazwa": "szczypiorek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R032",
+      "nazwa": "Tosty z cebulą, mozzarellą i wędliną",
+      "kategoria": "Śniadania",
+      "instrukcje": "1. Pieczywo skropić oliwą i posypać drobno pokrojoną cebulą.\n\n2. Następnie na kromki chleba położyć wędlinę i mozzarellę.\n\n3. Tosty zapiec w piekarniku.\n\n4. Tosty podawać z warzywami.",
+      "porcje": 2,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:20:40",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "tosty",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "mozzarella",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "wędliny",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R033",
+      "nazwa": "Jogurt naturalny z truskawkami, otrębami i orzechami",
+      "kategoria": "Śniadania",
+      "instrukcje": "Jogurt podawać z dodatkami.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:25:56",
+      "dataEdycji": "2026-03-10T14:19:58",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "truskawki",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 10,
+          "jednostka": "g",
+          "nazwa": "otręby",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 15,
+          "jednostka": "g",
+          "nazwa": "orzechy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R034",
+      "nazwa": "Zupa krem z soczewicy i marchewki z prażonymi pestkami dyni",
+      "kategoria": "Zupy",
+      "instrukcje": "1. Posiekaną cebulkę zeszklić 2-3 minuty na oleju, dodać sól, pieprz, przeciśnięty czosnek oraz kurkumę.\n\n2. Całość przełożyć do garnka wlać dwie szklanki wody i zagotować wsypać soczewicę, dodać pokrojoną marchew i gotować ok. 20 minut.\n\n3. Następnie wrzucić pokrojonego pomidora bez skórki i zmiksować zupę blenderem.\n\n4. Ponownie gotować przez 5 minut.\n\n5. Pestki dyni uprażyć na suchej patelni.\n\n6. Zupę podawać posypaną pestkami dyni.",
+      "porcje": 6,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 60,
+      "totalTimeMinutes": 80,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zupy"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:18:03",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "soczewica",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "marchew",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "pestki dyni",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 800,
+          "jednostka": "ml",
+          "nazwa": "bulion",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R035",
+      "nazwa": "Koktajl z jarmużu i awokado",
+      "kategoria": "Napoje",
+      "instrukcje": "1. Jabłko starannie umyj, osusz, pokrój na ćwiartki, a następnie wykrój gniazdo nasienne Korzeń imbiru obierz ze skórki, a zaraz potem zetrzyj na tarce o drobnych oczkach.\n\n2. Jarmuż opłucz i osusz.\n\n3. Pomarańczę obierz ze skóry, a następnie usuń białe błony, pozostawiając jedynie miąższ owocu.\n\n4. Awokado przekrój na połowę, usuń pestkę i za pomocą łyżki stołowej wybierz miąższ ze środka.\n\n5. Cytrynę sparz wrzątkiem, przekrój na połowę i wyciśnij z niej sok.\n\n6. W blenderze kielichowym umieść miód, wodę kokosową, imbir, jabłko, pomarańczę, siemię lniane, awokado, sok z cytryny i jarmuż.\n\n7. Wszystkie podane składniki starannie zblenduj.\n\n8. Koktajl odchudzający z jarmużu i awokado serwuj bezpośrednio po przygotowaniu.\n\n9. Napój można podawać później, przechowując wyrób w lodówce, najlepiej w szczelnie zamkniętym pojemniku.",
+      "porcje": 2,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "napoje"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:26:26",
+      "dataEdycji": "2026-03-10T14:23:50",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "liście jarmużu",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 70,
+          "jednostka": "g",
+          "nazwa": "awokado",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "jabłko",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "pomarańcza",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 250,
+          "jednostka": "ml",
+          "nazwa": "woda kokosowa",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 25,
+          "jednostka": "g",
+          "nazwa": "miód",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 10,
+          "jednostka": "g",
+          "nazwa": "siemię lniane",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "imbir",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "sok z cytryny",
+          "notatka": null,
+          "kategoria": "Owoce"
+        }
+      ]
+    },
+    {
+      "id": "R036",
+      "nazwa": "Pasta jajeczna",
+      "kategoria": "Śniadania",
+      "instrukcje": "1. Jajka gotujemy na twardo.\n\n2. Studzimy, obieramy i ścieramy na tarce na dużych oczkach.\n\n3. Szczypiorek siekamy drobno, dodajemy do jajek.\n\n4. Ogórki konserwowe i paprykę kroimy w małą kostkę, a oliwki w krążki.\n\n5. Dodajemy wszystkie warzywa do jajek.\n\n6. Mieszamy składniki.\n\n7. Dodajemy majonez, jogurt, musztardę, paprykę słodką mieloną, curry i pieprz.\n\n8. Całość mieszamy, na koniec doprawiamy solą do smaku.\n\n9. Jeśli pasta wydaje nam się zbyt mdła, możemy dodać odrobinę musztardy lub parę kropel soku z cytryny.\n\n10. Jeśli zaś odwrotnie - przesadziliśmy z musztardą i pasta wydaje nam się zbyt kwaśna, smak można zrównoważyć, dodając szczyptę cukru, łyżkę jogurtu lub łyżeczkę majonezu.\n\n11. WSKAZÓWKA Jajka na twardo stanowią świetny punkt wyjścia do przygotowania również innych wariantów past.\n\n12. Ostatnio na rodzimych stołach furorę robi suszonymi pomidorami i bazylią.\n\n13. Ciekawym dodatkiem do kanapek będzie także pasta jajeczna ze startym żółtym serem oraz wybranymi warzywami.\n\n14. Ten wariant wyjątkowo dobrze sprawdzi się, gdy zaserwujemy go z tostami.\n\n15. Osoby będące na diecie odchudzającej niewątpliwie zainteresuje zaś przepis na pastę jajeczną w wersji light - bez majonezu, za to z dodatkiem chudego jogurtu, serka wiejskiego lub naturalnego serka homogenizowanego",
+      "porcje": 2,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:54:16",
+      "dataEdycji": "2026-03-11T08:02:57",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "majonez",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1.5,
+          "jednostka": "łyżka",
+          "nazwa": "musztarda",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 0.5,
+          "jednostka": "pęczek",
+          "nazwa": "szczypiorek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 8,
+          "jednostka": "szt",
+          "nazwa": "oliwki",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "ogórek konserwowy",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R037",
+      "nazwa": "Spaghetti z pesto i orzechami",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Orzechy posiekaj z czosnkiem i natką pietruszki.\n\n2. Dolej oliwę, dopraw do smaku.\n\n3. Postaraj się, żeby składniki stworzyły jednolitą masę.\n\n4. Makaron spaghetti ugotuj.\n\n5. Wymieszaj z sosem i posyp ulubionym serem.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:58:55",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "spaghetti",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "orzechy włoskie",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 4,
+          "jednostka": "łyżka",
+          "nazwa": "pesto",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "ząbek",
+          "nazwa": "czosnek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 3,
+          "jednostka": "łyżka",
+          "nazwa": "oliwa",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "parmezan",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R038",
+      "nazwa": "Kanapka z wędliną, pomidorem, rzodkiewką i szczypiorkiem",
+      "kategoria": "Śniadania",
+      "instrukcje": "1. Pieczywo skropić oliwą.\n\n2. Kanapki podawać z wędliną i warzywami.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:12:33",
+      "dataEdycji": "2026-03-10T13:55:46",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "wędliny",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "rzodkiewka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "szczypiorek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R039",
+      "nazwa": "Ciasto marchewkowe z kremem cytrynowym",
+      "kategoria": "Ciasta",
+      "instrukcje": "1. Jajka wbij do miski, dodaj olej i wymieszaj.\n\n2. Następnie wsyp startą na tarce marchewkę i jeszcze raz wymieszaj.\n\n3. Do innego naczynia przesyp mąkę, cukier, wiórki, rodzynki, jeśli używasz, sól, cynamon i gałkę oraz proszek i sodę.\n\n4. Dokładnie wymieszaj. Suche składniki przesyp do mokrych i wymieszaj wszystko tak, by nie było widać mąki.\n\n5. Przygotuj tortownicę posmarowaną masłem i przełóż do niej masę na ciasto marchewkowe.\n\n6. Piecz w 150 stopniach C przez 60 minut.",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T15:18:43",
+      "dataEdycji": "2026-03-10T09:46:29",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "marchew",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "mąka tortowa",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "cukier brązowy",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 450,
+          "jednostka": "ml",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "wiórki kokosowe",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 6,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 2,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1.5,
+          "jednostka": "łyżeczka",
+          "nazwa": "soda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 2,
+          "jednostka": "łyżeczka",
+          "nazwa": "cynamon",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 10,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "serek śmietankowy",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 11,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cytryna",
+          "notatka": null,
+          "kategoria": "Owoce"
+        }
+      ]
+    },
+    {
+      "id": "R040",
+      "nazwa": "Herbata żurawinowa",
+      "kategoria": "Napoje",
+      "instrukcje": "1. Namaczaj żurawinę w gorącej wodzie przez 10 minut.\n\n2. Po tym czasie wrzuć żurawinę do garnka i zalej 1 litrem wody.\n\n3. Doprowadź do wrzenia, a następnie gotuj na małym ogniu przez 10 minut. / 2 Wrzuć do garnka torebkę herbaty i odstaw pod przykryciem na 7 minut.\n\n4. Do gotowej herbaty wyciśnij sok z cytryny i dodaj miód.",
+      "porcje": 2,
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 15,
+      "totalTimeMinutes": 20,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "napoje"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:53:53",
+      "dataEdycji": "2026-03-11T07:59:53",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "żurawina",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cytryna",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "herbata zielona",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "miód",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R041",
+      "nazwa": "Ciasto od Natalii",
+      "kategoria": "Ciasta",
+      "instrukcje": "Jajko ubić mikserem z cukrem, kontynuować ubijanie i cienkim strumieniem wlewaj olej i mleko \n\nDodac mąkę, proszek do pieczenia cynamon i sól\n\nDodać jabłko orzechy rodzynki\n\nWymieszaj łyżką 175 stopni.",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T20:18:12",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 250,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R042",
+      "nazwa": "Zupa szparagowa",
+      "kategoria": "Zupy",
+      "instrukcje": "W garnku o grubym dnie na oliwie i maśle podsmaż 3-4 minuty pokrojone w kostkę ziemniaki i przepołowiony czosnek.\n\nWlać gorący bulion z kurkumą (niewielka ilość). Gotowanie 10-15 minut na małym ogniu.\n\nOdłamać twarde końce szparagów (same się odłamią), pokroić w cienkie plasterki dodać do ziemniaków i gotowac 1 minutę.\n\nDodać koperek i śmietanę (śmietaną zahartować zupę)\n\nPodawać z pokruszoną fetą i szczypiorkiem.",
+      "porcje": 6,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 60,
+      "totalTimeMinutes": 80,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zupy"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T19:32:32",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "pęczek",
+          "nazwa": "szparagi",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 800,
+          "jednostka": "ml",
+          "nazwa": "bulion",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 100,
+          "jednostka": "ml",
+          "nazwa": "śmietana",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R043",
+      "nazwa": "Ciasto z rabarbarem i kruszonką",
+      "kategoria": "Ciasta",
+      "instrukcje": "1. Masło i jajka wyjąć wcześniej z lodówki.\n\n2. Piekarnik r agrzać do 180 st.\n\n3. Okrągłą formę z odpinaną obręczą o średnicy 24 - 25 cm wysmarować masłem. • Przygotować kruszonkę: na małym ogniu na > itelni roztop < masło, dodać cukier a po chwili mąkę, wymieszać, zcijąć z patelni, ostudzić. • Ciasto: Ubijać masło z cukrem pudrem na gładką puszystą masę przez ok. 8 minut.\n\n4. Nie przerywając ubijania doda vać kolejno pc jednym jajku, w około 3 minutowych odstępach czas j czyli cały czas intensywnie ubijać masę. • Zmniejszyć obroty miksera do średnich i dodać p zesianą mąkę z proszkiem do pieczenia, na i lepiej dodać ją w 2 - i partiach, za każdym razem miksując do połączenia się składnii c w w jednolite ciasto. • Przełożyć je do formy, na wierzchu rozłożyć pokrojony na plasterki rabarbar.\n\n5. Posypać kruszonką i wstawić do nagrzanego piekarnika.\n\n6. Piec przez ok. 60 minut, do suchego os tyczka.\n\n7. Posypać cukrem pudrem.",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:01:09",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "cukier puder",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 250,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "mąka na kruszonkę",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 80,
+          "jednostka": "g",
+          "nazwa": "masło na kruszonkę",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "cukier na kruszonkę",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 600,
+          "jednostka": "g",
+          "nazwa": "rabarbar",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R044",
+      "nazwa": "Papryki faszerowane",
+      "kategoria": "Dania główne",
+      "instrukcje": "Na rozgrzanym oleju zeszklić posiekaną cebulę i czosnek włożyć mięso i obsmażyć.\n\nDodać sól, piperzm tymianek, czerowną paprykę 1 łyżeczkę kukrurydzy i oregano, dodać koncentrat i natkę, smażyć 2 minuty.\n\nDodać ryżm wymieszać smażyć 1 minutę, ostudzić. \n\nDodaj jajka, wymieszać.\n\nPapryki faszerować na wierzchu położyć plaster pomidora.\n\nPiec 35 minut w 200 stopniach.\n\nWyjąć, położyć plaster sera i piec jeszcze 10 minut.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T20:00:48",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "mięso mielone",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "ryż",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R045",
+      "nazwa": "Dorsz pieczony z pomidorami",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Dorsza umyć i osuszyć, ponacinać w poprzek i umieścić obrane przekrojone w wzdłuż ząbki czosnku, natrzeć pieprzem i solą, ułożyć w naczyniu żaroodpornym.\n\n2. Pomidorki koktajlowe umyć i dodać do ryby.\n\n3. Wrzucić liście laurowe.\n\n4. Całą zawartość skropić olejem, przykryć i wstawić do piekarnika.\n\n5. Piec ok. 30-40 minut w temp. 180 stopni Celsjusza.\n\n6. Pod koniec pieczenia rybę odkryć i zarumienić.\n\n7. Rybę z pomidorkami podawać z ugotowaną kaszą pęczak.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:17:48",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "dorsz",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R046",
+      "nazwa": "Kanapka z tuńczykiem, serem białym, ogórkiem kiszonym i pomidorem",
+      "kategoria": "Śniadania",
+      "instrukcje": "Pieczywo podawać z serem, tuńczykiem i warzywami.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:39:11",
+      "dataEdycji": "2026-03-10T10:25:19",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "puszka",
+          "nazwa": "tuńczyk",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "ser biały",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "ogórek kiszony",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R047",
+      "nazwa": "Kasza jaglana na słodko",
+      "kategoria": "Śniadania",
+      "instrukcje": "Kasze przepłucz gorącą wodą.\n\nMlego zagotuj dodać kaszy, zmniejszyc ogien i gotować 20 minut.\n\nPo 10 minutach dodać starte na tarce jabłka.\n\nPod koniec gotowania dodaj miód posyp cynamonem.",
+      "porcje": 2,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T19:39:44",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 80,
+          "jednostka": "g",
+          "nazwa": "kasza jaglana",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "mleko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "miód",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R048",
+      "nazwa": "Pierogi z kefirem",
+      "kategoria": "Dania główne",
+      "instrukcje": "Wszystkie składniki dokładnie wymieszać i ugniatać 10 minut. \n\nKiedy ciasto przestanie się lepić w dłoni odłożyć do miski obsypanej mąką na 15 minut.\n\nMAMe poprosic o przeczytanie",
+      "porcje": 4,
+      "prepTimeMinutes": 60,
+      "cookTimeMinutes": 20,
+      "totalTimeMinutes": 80,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T21:03:27",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "kefir",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "farsz",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R049",
+      "nazwa": "Koktajl jabłkowy",
+      "kategoria": "Napoje",
+      "instrukcje": "jabłko\n2 garści borówek\nimbir na drobnych oczkach\nsok z połowy cytryny\nmozna dodać szklankę wody",
+      "porcje": 2,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "napoje"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T20:50:06",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "jabłko",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "jogurt",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "miód",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R050",
+      "nazwa": "Smoothie",
+      "kategoria": "Napoje",
+      "instrukcje": "Zblendować",
+      "porcje": 2,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "napoje"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T20:01:38",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "banan",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "owoce",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "mleko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R051",
+      "nazwa": "Wołowina duszona",
+      "kategoria": "Dania główne",
+      "instrukcje": "Wołowinę rozbić tłuczkiem na cienkie filety, doprawić solą, pieprzem isuszonym oregano, posmarować musztardą.\n\n2. Przykryć plasterkiem polędwicy jeśli ją używamy, następnie przy krótszym brzegu położyć słupek ogórka i papryki lub tylko kawałek suszonego pomidora.\n\n3. Zwinąć w roladkę, spiąć wykałaczką.\n\n4. Obsmażyć na oleju z każdej strony na dobrej większej patelni na większym ogniu. t • W garnku zagotować rosól lub bulion, do wrzącego bulionu włożyć obsmażone roladki i zagotować.\n\n5. Dodać suszone grzybki (świeże dodajemy później, pod koniec gotowania). • Na patelnię po roladkach włożyć posiekaną w kosteczkę cebulę i przepołowione ząbki czosnku, zeszklić i lekko zrumienić.\n\n6. Przełożyć do garnka.\n\n7. Na patelnię wlać wino i połowę zredukować, przelać do garnka z mięsem.\n\n8. Jeśli nie używamy wina _ .\n\n9. Hi łcwi dbając roiadki.\n\n10. Możemy też gotować na ogniu, pod przykryciem, przez około 2 godziny lub do czasu aż mięso będzie delikatne i kruche. • Jeśli używamy grzybów świeżych lub mrożonych, należy je pokroić i podsmażyć na łyżce masła z dodatkiem soli i pieprzu, na dużym ogniu, przez około 2 minuty co chwilę mieszając.\n\n11. Tak podsmażone grzyby dodajemy na pół godziny przed końcem gotowania zrazów. • Gdy mięso będzie już miękkie możemy zagęścić sos mąką wymieszaną z częścią wywaru, zagotować.\n\n12. Jeśli nie chcemy dodawać mąki możemy sos zmiksować na gładko, wówczas będzie \\\"naturalnie\\\" gęsty, część grzybków możemy pozostawić w całości. • Można też zabielić sos mlekiem (rozmieszać mąkę z mlekiem, dodać do garnka i zagotować).\"",
+      "porcje": 4,
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 90,
+      "totalTimeMinutes": 115,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T17:28:33",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 5,
+          "jednostka": "szt",
+          "nazwa": "plastry wołowiny",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "łyżeczka",
+          "nazwa": "musztarda",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "ogórek kiszony",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2.5,
+          "jednostka": "szklanka",
+          "nazwa": "rosół",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "grzyby",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 0.3,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 2,
+          "jednostka": "ząbek",
+          "nazwa": "czosnek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R052",
+      "nazwa": "Polędwiczki wieprzowe",
+      "kategoria": "Dania główne",
+      "instrukcje": "Wszystkie składniki marynata\n\n40 minut w 180 stopniach.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T19:52:06",
+      "dataEdycji": "2026-03-12T19:52:19",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "polędwiczki wieprzowe",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "przyprawy",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R053",
+      "nazwa": "Bakłażan faszerowany kaszą jaglaną",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Bakłażany pokrój na połówki, ułóż na papierze do pieczenia i piecz pół godziny w 200 stopniach, następnie wyjmij miąższ Kaszę jaglaną zalej dwiema szklankami wody z solą i dwiema łyżkami curry, ugotuj do miękkości, w razie potrzeby dolej więcej wody Na rozgrzaną patelnię wiej 3 łyżki zalewy z pomidorów, podsmaż na niej cebulkę i czosnek, dodaj posiekany miąższ z bakłażanów i pokrojoną w drobną kostkę paprykę.\n\n2. Podsmaż około 4 minuty, dodaj natkę pietruszki oraz przyprawy.\n\n3. Zdejmij z ognia i dodaj pokrojone pomidory.\n\n4. Całość wymieszaj z kaszą Bakłażany posyp solą, nałóż farsz i włóż do nagrzanego do 200 stopni piekarnika na 20 minut.\n\n5. Po tym czasie posyp tartym serem i podpiecz, dopóki ser się całkowicie nie roztopi",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-24T18:14:03",
+      "dataEdycji": "2026-03-10T07:49:06",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "bakłażan",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szklanka",
+          "nazwa": "kasza jaglana",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "cebula dymka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "ząbek",
+          "nazwa": "czosnek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "papryka żółta",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 10,
+          "jednostka": "szt",
+          "nazwa": "pomidory suszone",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "ser żółty",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R054",
+      "nazwa": "Pizza domowa",
+      "kategoria": "Dania główne",
+      "instrukcje": "Dodatkowo uluione dodatki\n\nWodę wlewamy do miski rozpuszczamy w niej suszone drożdzę, mieszamy drewnianą łyżką, powoli dodajemy mąkę i dalej mieszamy,\n\nWyrabiamy ciasto rękami przez ok. 20 minut.\n\nZgniecone odstawiamy do miski, przykrywamy wilgotną ściereczką na ok 5 godzin.\n\nPo upływie tego czasu ciasto dzielimy na 3 części.\n\nKażdą z nich wykładamy na posypany maką blat, delikatnie wyrabiamy i spłaszczamy.\n\nTak powstały placek obracamy szybko w rękach, rozciągamy go aż powstanie płaski orkągły spód.\n\nPrzekładamy go na blachę w razie potrzeby uklepujemy by było jeszcze bardziej kształtne i cieńsze.\n\nW rondelku podgrzewamy poastę z oliwą dodajemy czosnek i oregano.\n\nTak przygotowany sos smarujemy spód pizzy a nastepnie wykładamy na niego dodatki.\n\nPieczemy w tem. 270 stopni 5-7 minut.",
+      "porcje": 4,
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 20,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T21:17:52",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 7,
+          "jednostka": "g",
+          "nazwa": "drożdże",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "ser żółty",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 150,
+          "jednostka": "ml",
+          "nazwa": "passata",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "dodatki do pizzy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R055",
+      "nazwa": "Schab w sosie własnym",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. PRZYGOTOWANIE W szerokim garnku rozgrzać łyżkę oleju i zeszklić posiekaną cebulę, dodać pozostałe dwie łyżki oliwy, przesunąć cebulę na bok i włożyć plastry schabu.\n\n2. Obsmażyć z obu stron do zrumienienia, następnie doprawić solą i zmielonym pieprzem.\n\n3. Wlać gorący bulion (lub rosól).\n\n4. Doprawić mieloną papryką oraz listkiem laurowym i zielem angielskim.\n\n5. Przykryć i dusić na małym ogniu ok. 1 godz. i 20 minut, do miękkości mięsa.\n\n6. Na patelni dobrze rozgrzać masło, dodać mąkę i chwilę podsmażyć mieszając.\n\n7. Przełożyć do garnka, dokładnie wymieszać i zagotować.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:55:15",
+      "dataEdycji": "2026-03-12T17:12:06",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 600,
+          "jednostka": "g",
+          "nazwa": "schab",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 3,
+          "jednostka": "łyżka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 500,
+          "jednostka": "ml",
+          "nazwa": "bulion",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "papryka mielona",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "liść laurowy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R056",
+      "nazwa": "Wegetariańskie leczo z kaszą pęczak",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Składniki leczo pokroić i dusić w garnku.\n\n2. Leczo doprawić do smaku.\n\n3. Leczo podawać z kaszą.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne",
+        "warzywa"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:12:49",
+      "dataEdycji": "2026-03-10T13:57:43",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "kasza pęczak",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cukinia",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R057",
+      "nazwa": "Żurek z jajkiem i kiełbasą z indyka",
+      "kategoria": "Zupy",
+      "instrukcje": "1. Do wody dodać odpowiednią ilość żurku (według uznania) oraz czosnek.\n\n2. Żurek gotować wraz z kiełbasą.\n\n3. Żurek podawać z jajkiem.",
+      "porcje": 6,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 60,
+      "totalTimeMinutes": 80,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zupy"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:21:14",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 500,
+          "jednostka": "ml",
+          "nazwa": "żurek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "kiełbasa z indyka",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "kiełbasa",
+          "notatka": null,
+          "kategoria": "Mięso"
+        }
+      ]
+    },
+    {
+      "id": "R058",
+      "nazwa": "Delikatny gulasz z indyka",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Mięso oczyszczamy i kroimy w kostkę.\n\n2. Dodajemy odrobinę oliwy, dużą szczyptę soli i po trochu papryki słodkiej, pieprzu, oregano i tymianku.\n\n3. Mieszamy i wkładamy na jakiś czas do lodówki.\n\n4. Suszone śliwki przekrawamy na pół i wraz z rodzynkami namaczamy w letniej wodzie (ok. pół szklanki).\n\n5. Cebulę obieramy i kroimy w kostkę.\n\n6. Marchewki obieramy i kroimy w plasterki.\n\n7. Paprykę kroimy w kostkę.\n\n8. Papryczkę chili kroimy w plasterki.\n\n9. Czosnek obieramy i kroimy w cienkie plasterki.\n\n10. W sporym rondlu rozgrzewamy łyżkę oliwy lub oleju i obsmażamy mięso na złoty kolor.\n\n11. W tym samym czasie na patelni rozgrzewamy łyżkę oliwy lub oleju i podsmażamy cebulę.\n\n12. Zdejmujemy cebulę z patelni, wrzucamy marchewkę i paprykę i podsmażamy.\n\n13. Dodajemy posiekany czosnek i papryczkę chili (jeśli używamy sproszkowanego chili, dodajemy ok. pół łyżeczki).\n\n14. Dodajemy też łyżeczkę papryki słodkiej i po szczypcie majeranku, oregano i tymianku.\n\n15. Po ok. 10 minutach zawartość patelni wrzucamy do rondla z podsmażonym mięsem.\n\n16. Dodajemy również podsmażoną wcześniej cebulę.\n\n17. Mieszamy składniki.\n\n18. Podlewamy gulasz odrobiną wody.\n\n19. Dodajemy listek laurowy i kilka kulek ziela angielskiego.\n\n20. Dusimy danie małym ogniu ok. 15 minut.\n\n21. Dodajemy łyżeczkę kurkumy i papryki słodkiej, pół łyżeczki pieprzu, po dużej szczypcie oregano, tymianku i majeranku oraz namoczone rodzynki i śliwki (wraz wodą).\n\n22. Dusimy kolejnych 15 minut.\n\n23. Solimy do smaku.\n\n24. Dodajemy 3-4 łyżki jogurtu naturalnego, mieszamy, dusimy danie jeszcze 5 minut.",
+      "porcje": 4,
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 90,
+      "totalTimeMinutes": 115,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:01:47",
+      "dataEdycji": "2026-03-10T09:58:01",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "pierś z indyka",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 3,
+          "jednostka": "łyżka",
+          "nazwa": "rodzynki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 5,
+          "jednostka": "szt",
+          "nazwa": "śliwki suszone",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "ząbek",
+          "nazwa": "czosnek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "marchew",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 3,
+          "jednostka": "łyżka",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R059",
+      "nazwa": "Pieczona rolada z cukinią i rukolą",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Oddzielić żółtka od białek.\n\n2. Do mąki dodać sól, mleko, żółtka i 2 łyżki wody, wymieszać.\n\n3. Ciasto odstawić na 10 min.\n\n4. Rozgrzać piekarnik do 180°C.\n\n5. Pianę z białek ubić na sztywno.\n\n6. Dodać do ciasta, dołożyć posiekaną rukolę i delikatnie wymieszać.\n\n7. Blachę do pieczenia wyłożyć papierem pergaminowym, wylać na nią ciasto cienką warstwą, uformować prostokąt 35x40 cm.\n\n8. Piec 15 min, wyjąć, schłodzić. 2.\n\n9. Cukinię umyć, pokroić na cienkie plasterki, smażyć partiami na oleju z każdej strony.\n\n10. Doprawić do smaku. 3.\n\n11. Ajwar wymieszać ze śmietaną i posiekaną natką pietruszki.\n\n12. Na upieczone ciasto wyłożyć cukinię, posypać startą mozzarellą, polać sosem z ajwaru i śmietany.\n\n13. Zwinąć jak roladę, posypać z wierzchu startym żółtym serem.\n\n14. Wstawić do piekarnika nagrzanego do 200°C, piec 10 min.\n\n15. Wyłożyć na półmisek, pokroić w plastry, podawać gorące.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne",
+        "warzywa"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:54:47",
+      "dataEdycji": "2026-03-11T08:11:08",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "mleko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "cukinia",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "rukola",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "mozzarella",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "ser gouda",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1,
+          "jednostka": "szklanka",
+          "nazwa": "śmietana 12%",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 4,
+          "jednostka": "łyżka",
+          "nazwa": "ajwar",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R060",
+      "nazwa": "Kaczka pieczona z jabłkami",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Przygotowujemy kaczkę - myjemy, osuszamy, czyścimy z piór (pęsetą lub szczypcami opalając nad ogniem).\n\n2. Odcinamy końcówki skrzydeł oraz kuperek.\n\n3. Roztartymi goździkami nacieramy całą kaczkę.\n\n4. Jabłka kroimy w ósemki i pozbawiamy je gniazd nasiennych.\n\n5. Jabłka, śliwki i gałązki tymianku wkładamy do środka.\n\n6. Tak przygotowaną kaczkę pieczemy na blacie w piekarniku przez 3 godziny w 90 stopniach.\n\n7. Po tym czasie, kaczkę wyjmujemy i ustawiamy ją pionowo (można wykorzystać naczynie do pieczenia kurczaka) i owijamy folią aluminiową.\n\n8. Pozostawiamy kaczkę na 30 minut.\n\n9. Zdejmujemy folię i wstawiamy kaczkę do piekarnika nagrzanego do 220 stopni na 20 minut (można umieścić ją na ruszcie lub wstawić do naczynia do pieczenia kurczaka lecz bezwzględnie musimy wylać wcześniejszy tłuszcz).",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 90,
+      "totalTimeMinutes": 110,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:32:17",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "kaczka",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "jabłka",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 10,
+          "jednostka": "szt",
+          "nazwa": "śliwki wędzone",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 3,
+          "jednostka": "gałązka",
+          "nazwa": "tymianek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 6,
+          "jednostka": "szt",
+          "nazwa": "goździki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R061",
+      "nazwa": "Bigos wykwintny",
+      "kategoria": "Dania główne",
+      "instrukcje": "Borowiki opłukać w wodzie, odcedzić, wlać 1/2 szklanki nowej zimnej wody, odstawić do namoczenia. \n\nŚliwki suszone pokroić na połówki, włożyć do miseczki, zalać czerwonym winem, odstawić do namoczenia. \n\nNa dużą, rozgrzaną patelnię wlać 1 łyżkę oieju, włożyć mięso pokrojone w 1 cm kosteczkę i obsmażyć dokładnie z każdej strony, mieszając od czasu do czasu.\n\nDodać zawartość patelni oraz namoczone i posiekane borowiki wraz z zalewą oraz suszone śliwki wraz z winem.\n\nDodać koncentrat pomidorowy, doprawić solą i wymieszać.\n\nPrzykryć i zagotować na większym ogniu. \n\nCiągle gotując dodawać resztę składników: powidła oraz pokrojone w małą kosteczkę lub starte na tarce obrane jabłko.\n\nWszystko po wymieszaniu przykryć i gotować na umiarkowanym ogniu przez około 2 godziny. \n\nPodczas gotowania co jakiś czas bigos zamieszać i sprawdzić czy nie przywiera do dna garnka. \n\nW połowie gotowania dodać kiełbasę: wcześniej pokroić ją na plasterki i podsmażyć na patelni, dodać do bigosu zarówno kiełbasę jak i wytopiony tłuszczyk. \n\nJeśli chcemy w połowie gotowania dodajemy też rozmrożone i pokrojone na plasterki podgrzybki. \n\nNa koniec gotowania sprawdzić czy bigos jest odpowiednio słony, doprawić go świeżo zmielonym pieprzem i dodać oliwę lub olej. \n\nDo dużego garnka wlać 1 szklankę wody, dodać sos sojowy i zagotować, włożyć mięso z patelni, przykryć i gotować na małym ogniu przez około 45 minut. \n\nW międzyczasie pokroić cebulę w małą kosteczkę.\n\nKiszoną kapustę odcisnąć z soku. \n\nBiałą kapustę obrać z zewnętrznych liści, wyciąć twardy głąb ze środka, resztę drobno posiekać. \n\nRozgrzać patelnię po mięsie, dodać łyżkę masła i łyżkę oliwy, włożyć cebulę, listek laurowy, ziele angielskie, jałowiec i kminek, smażyć przez około 5 minut aż cebula będzie szklista i lekko zrumieniona. \n\nDodać kapustę kiszoną i smażyć wszystko na większym ogniu mieszając przez 2 minuty, wlać 1/2 szklanki wody i zagotować. \n\nDo garnka z podgotowanym mięsem dodać posiekaną białą kapustę, wymieszać i gotować przez 5 minut pod przykryciem.",
+      "porcje": 4,
+      "prepTimeMinutes": 40,
+      "cookTimeMinutes": 120,
+      "totalTimeMinutes": 160,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T14:54:27",
+      "dataEdycji": "2026-03-10T09:18:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 30,
+          "jednostka": "g",
+          "nazwa": "borowiki suszone",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "śliwki suszone",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "wino czerwone",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "wołowina gulaszowa",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "kapusta kiszona",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "kapusta biała",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "kiełbasa",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jabłko",
+          "notatka": null,
+          "kategoria": "Owoce"
+        }
+      ]
+    },
+    {
+      "id": "R062",
+      "nazwa": "Kanapka z wędliną, papryką i ogórkiem",
+      "kategoria": "Śniadania",
+      "instrukcje": "Pieczywo podawać z warzywami i wędliną.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:26:11",
+      "dataEdycji": "2026-03-10T14:21:32",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "wędliny",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "papryka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "ogórek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R063",
+      "nazwa": "Jogurt naturalny ze śliwkami i otrębami",
+      "kategoria": "Śniadania",
+      "instrukcje": "Do jogurtu dodać śliwki i otręby.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:39:30",
+      "dataEdycji": "2026-03-10T13:09:28",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "śliwki",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 10,
+          "jednostka": "g",
+          "nazwa": "otręby",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R064",
+      "nazwa": "Pizza Maćka",
+      "kategoria": "Dania główne",
+      "instrukcje": "1.\nrozrobić 1/3 drożdzy\nłyżeczka mąki \nłyżeczka cukru\n2 łyżedczki wody ciepłej\n\n2.\n2 szklanki mąki pszennej\n1/2 łyżeczki soli\n2 łyżeczki cukru\n1/3 szklanki mleka\n1 jajko\n2 łyżki oleju",
+      "porcje": 4,
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 20,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T20:24:00",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "ser",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "ml",
+          "nazwa": "sos pomidorowy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R065",
+      "nazwa": "Cukinie z farszem",
+      "kategoria": "Dania główne",
+      "instrukcje": "Na patelni zeszklić cebulę i czosnek\n\nZwiększyc ogień i dodać mięso. Smażyć 5 minut.\n\nDodać sos sojowy oraz przyprawy. Smażyć 1 minutę, nastepnie wlać gorący bulion wsypać ryż i zagotować. Przykryć pokrywką i gotować 25 minut. Jeśli na koniec pozostanie płyn należy go wygotować bez przykrycia.\n\nCukinie piec w 180 stopniach 10 minut.\n\nDo mięsa dodać miąższ cukini i pomidora pod koniec natkę piertuszki.\n\nPo przestudzeniu dodać jajko, wymieszać. \n\nFarszem wypełnic cukinie.\n\nPosypać startym serem i ułożyć plasterki pomidora.\n\nPiec około 25 minut w 180 stopniach.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne",
+        "warzywa"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-15T08:50:21",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "cukinia",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "mięso mielone",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "ser",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R066",
+      "nazwa": "Młoda kapusta z piersią z kurczaka, koperkiem i kaszą gryczaną",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Kaszę ugotować ai dente w lekko osolonej wodzie.\n\n2. Kapustę drobno posiekać.\n\n3. W tym czasie do głębokiej patelni wlać olej, wrzucić posiekaną cebulę i pokrojone w kostkę mięso, przyprawić papryką, solą, pieprzem i poddusić ok. 5 minut.\n\n4. Następnie wrzucić posiekaną kapustę, liść laurowy, ziele angielskie, zalać wodą i dusić pod przykryciem ok. 10 minut.\n\n5. Na koniec wsypać ugotowaną kaszę, posiekany koperek i wymieszać.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:22:20",
+      "dataEdycji": "2026-03-10T14:14:52",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "młoda kapusta",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "pierś z kurczaka",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "kasza gryczana",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "pęczek",
+          "nazwa": "koperek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R067",
+      "nazwa": "Ciastka miętowe",
+      "kategoria": "Inne",
+      "instrukcje": "1. Do miski z miętą wsypujemy cukier i blendujemy.\n\n2. Dodajemy jajko i ponownie dokładnie blendujemy składniki.\n\n3. Do powstałej masy wsypujemy mąkę i dokładamy masło.\n\n4. Wszystkie składniki dokładnie łączymy ze sobą.\n\n5. Dodajemy proszek do pieczenia i kawałki czekolady.\n\n6. Całość dokładnie mieszamy łyżką.\n\n7. Po przygotowaniu ciasta musimy uformować ciasteczka.\n\n8. Najpierw posmarujmy dłonie masłem, po to, by ciasto nie kleiło się do rąk.\n\n9. Teraz możemy formować nieduże kulki.\n\n10. Układamy je na papierze do pieczenia w piekarniku.\n\n11. Z przygotowanego ciasta powinniśmy uzyskać 12 ciastek.\n\n12. Pieczemy je 15 minut w temperaturze 180 stopni.\n\n13. Ciastka po upieczeniu mają delikatny miętowy kolor i pięknie pachną.",
+      "porcje": 12,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "totalTimeMinutes": 35,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "przekąski / dodatki",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T15:18:03",
+      "dataEdycji": "2026-03-10T09:37:06",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 20,
+          "jednostka": "g",
+          "nazwa": "mięta świeża",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jajko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 30,
+          "jednostka": "g",
+          "nazwa": "czekolada",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R068",
+      "nazwa": "Kanapki z wędliną, serem białym, pomidorem i ogórkiem kiszonym",
+      "kategoria": "Śniadania",
+      "instrukcje": "Pieczywo skropić oliwą. Produkty położyć na pieczywo.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:45:17",
+      "dataEdycji": "2026-03-10T13:20:27",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "wędliny",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "ser biały",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "ogórek kiszony",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R069",
+      "nazwa": "Ciasto kruche pod jabłecznik",
+      "kategoria": "Ciasta",
+      "instrukcje": "Pianę ubić z 1 szklanką cukru\n\nCiasto - jabłka - piana - kruszonka",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T19:33:52",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 250,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 4,
+          "jednostka": "szt",
+          "nazwa": "jabłka",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R070",
+      "nazwa": "Sos do mięs i plackóww",
+      "kategoria": "Inne",
+      "instrukcje": "jogurt naturalny\nłyżka majonezu\nząbek czosnku\nsól, pieprz\npokrojone listki mięty",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "sosy / dodatki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-13T20:48:57",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "majonez",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "ząbek",
+          "nazwa": "czosnek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "mięta",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R071",
+      "nazwa": "Pieczona biała kiełbasa w sosie chrzanowym",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Piekarnik nagrzać do 160 stopni C.\n\n2. Do naczynia żaroodpornego włożyć ponacinaną kiełbasę.\n\n3. Cebulę obrać, przekroić na pół a następnie pokroić na plasterki..Włożyć na patelnię z olejem i smażyć na umiarkowanym ogniu przez ok. 3 minuty aż będzie szklista.\n\n4. Wyłożyć ją na kiełbasę.\n\n5. Posypać pokrojoną w kosteczkę papryką czerwoną oraz pomarańczową a także obraną i pokrojoną na cienkie plasterki marchewką (kilka plasterków można zostawić na wierzch).\n\n6. Wstawić do piekarnika i piec bez przykrycia przez ok. 45 minut.\n\n7. Składniki sosu wymieszać w miseczce.\n\n8. Polać po kiełbasie, posypać odłożoną marchewką i piec przez ok. 20 minut bez przykrycia.\n\n9. Wyjąć z piekarnika, posypać natką i podawać z dodatkami.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:55:28",
+      "dataEdycji": "2026-03-12T17:17:21",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1000,
+          "jednostka": "g",
+          "nazwa": "biała kiełbasa",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 0.25,
+          "jednostka": "szt",
+          "nazwa": "papryka czerwona",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 0.25,
+          "jednostka": "szt",
+          "nazwa": "papryka pomarańczowa",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "marchew",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "śmietana 18%",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "chrzan",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 4,
+          "jednostka": "łyżka",
+          "nazwa": "mleko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R072",
+      "nazwa": "Koktajl pomidorowy z siemieniem lnianym",
+      "kategoria": "Napoje",
+      "instrukcje": "1. Siemię lniane zmielić w młynku.\n\n2. Składniki zmiksować na koktajl.",
+      "porcje": 2,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "napoje"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:45:29",
+      "dataEdycji": "2026-03-10T13:31:47",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "siemię lniane",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "woda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R073",
+      "nazwa": "Kanapka z pastą z fety i suszonych pomidorów",
+      "kategoria": "Śniadania",
+      "instrukcje": "1. Ser pokruszyć, dodać kawałki pomidorów suszonych i koperek.\n\n2. Składniki można zblendować na pastę.\n\n3. Pieczywo posmarować pastą i położyć warzywa.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:08:11",
+      "dataEdycji": "2026-03-10T13:44:09",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "ser feta",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 40,
+          "jednostka": "g",
+          "nazwa": "pomidory suszone",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "koperek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R074",
+      "nazwa": "Kotlety z cukinii",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Te kotlety z cukinii szykuję z dodatkiem tartych ziemniaków.\n\n2. Warzywa ścieram na dość grubych oczkach, ale możesz też zetrzeć je na oczkach drobnych.\n\n3. Takie kotlety będą miały bardziej jednolitą strukturę.\n\n4. Jeśli użyjesz bułki tartej bez glutenu, to Twoje kotleciki będą nie tylko wegetariańskie, ale i bezglutenowe.\n\n5. Jeśli zaś masz więcej niż jedną cukinię, to polecam Ci mój przepis na pasztet z cukinii oraz zupę krem z cukinii.\n\n6. Tymczasem jednak skupmy się na pysznych, warzywnych kotletach na bazie cukinii, marchewki i ziemniaków.\n\n7. Kotlety z cukinii Zacznij od umycia warzyw.\n\n8. Wybrałam jedną średniej wielkości cukinię zieloną.\n\n9. Moja cukinia była młoda, więc nie obierałam jej i nie usuwałam gniazda nasiennego.\n\n10. Odcięłam tylko oba końce.\n\n11. Jeśli jednak masz starą cukinię, to obierz ją w całości i wydrąż gniazdo nasienne.\n\n12. Przy starej cukinii możesz sięgnąć po większą sztukę, ponieważ będziesz mieć więcej odpadów.\n\n13. Ziemniaki, cebulę i marchewki również umyj i obierz.\n\n14. Ziemniaki, marchew i cukinię zetrzyj na tarce na grubych lub średnich oczkach (u mnie na grubych - Ja użyłam maszynki z nakładką do siekania warzyw).\n\n15. Cebulę bardzo drobno posiekaj.\n\n16. Szczypiorek czeka na swoją kolej..\n\n17. Tak przygotowane warzywa umieść w misce.\n\n18. Dodaj płaską łyżkę soli i całość wymieszaj.\n\n19. Miskę odstaw na 10 minut, by warzywa puściły wodę.\n\n20. Po tym czasie łap w garść warzywa i bardzo dokładnie odciskaj je z nadmiaru wody.\n\n21. W ten sposób odciśnij całą zawartość miski.\n\n22. Wodę z solą wylej.\n\n23. Odciśnięte z wody warzywa kładź do drugiej, większej miski.\n\n24. Z wodą odejdzie Ci również nadmiar soli, ponieważ płaska łyżka soli to jednak za dużo jak na te kotlety.\n\n25. Do miski dołóż również drobno siekany szczypiorek, dwa jajka, dwie płaskie łyżki skrobi ziemniaczanej, pół szklanki bułki tartej oraz resztę przypraw.\n\n26. Z przyprawami można też bardziej poszaleć.\n\n27. Możesz dać trochę chilli, słodkiej papryki lub użyć pieprzu ziołowego lub pieprzu z dodatkiem czosnku.\n\n28. Drugie pół szklanki bułki wykorzystasz do obtaczania uformowanych kotletów z cukinii.\n\n29. Wszystkie składniki bardzo dobrze wymieszaj.\n\n30. Do miseczki wsyp pozostałą bułkę tartą.\n\n31. Przy pomocy łyżki nabieraj porcję warzyw wielkości średniego orzecha włoskiego.\n\n32. Umieszczaj ją w bułce tartej a następnie obtaczaj.\n\n33. Łap w dłoń i lekko wydłużaj.\n\n34. Ponownie umieszczaj w bułce i odkładaj na talerz.\n\n35. W ten sposób uformuj wszystkie kotleciki.\n\n36. Mi wyszło równo 16 sztuk.\n\n37. Średnią lub dużą patelnię nagrzej dobrze.\n\n38. Nie ustawiaj jednak od razu wysokiej mocy palnika.\n\n39. Ustaw średnią moc i pozwól, by patelnia równomiernie się nagrzała.\n\n40. Wlej część oleju.\n\n41. Wyłóż pierwszą partię kotletów z cukinii.\n\n42. Kotlety smaż na odrobinę niższej niż średnia moc palnika.\n\n43. Musisz samodzielnie zdecydować kiedy i o ile zmniejszyć moc, ponieważ każdy ma inną kuchenkę oraz grubość patelni.\n\n44. Ważne jednak, by kotlety smażyły się 6-8 minut na stronę.\n\n45. Warzywa mają mieć czas, by się dosmażyć.\n\n46. Kotlety nie mogą się przypalić, a ładnie zarumienić.\n\n47. Rumiane i pachnące kotlety z cukinii smakują rewelacyjnie podane z domowym sosem na zimno.\n\n48. Sos czosnkowy zrobisz w pięć minut.\n\n49. Jeśli kotletów nie włożysz do lodówki, to zapewniam, że po przestudzeniu smakują jeszcze lepiej :) Sprawdziły to moje dzieci a kotlety nie miały szans na to, by wylądować w lodówce do drugiego posiłku.",
+      "porcje": 4,
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 20,
+      "totalTimeMinutes": 45,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne",
+        "warzywa"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:26:39",
+      "dataEdycji": "2026-03-11T07:54:12",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 370,
+          "jednostka": "g",
+          "nazwa": "cukinia",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 170,
+          "jednostka": "g",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "marchew",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 250,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "skrobia ziemniaczana",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "bułka tarta",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": null,
+          "jednostka": null,
+          "nazwa": "szczypiorek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R075",
+      "nazwa": "Kanapka z serem białym, ogórkiem i rzodkiewką",
+      "kategoria": "Śniadania",
+      "instrukcje": "Na pieczywo położyć ser biały i warzywa.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:22:06",
+      "dataEdycji": "2026-03-10T14:12:41",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "ser biały",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "ogórek",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "rzodkiewka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R076",
+      "nazwa": "Muffinki z rabarbarem",
+      "kategoria": "Ciasta",
+      "instrukcje": "1. jajka roztrzepać z cukrem, jogurtem, olejem i skórką z cytryny.\n\n2. Mąkę przesiać z proszkiem i sodą, wsypać do mokrych składników.\n\n3. Wymieszać łyżką krótko i niezbyt dokładnie.\n\n4. Dodać rabarbar i ponownie wymieszać.\n\n5. Składniki kruszonki rozetrzeć palcami.\n\n6. Formę (22x33cm) wyłożyć papierem do pieczenia, wylać ciasto, posypać kruszonką.\n\n7. Wstawić do nagrzanego piekarnika, piec ok 40-45 minut w temp. 170stC (termoobieg) do suchego patyczka.\n\n8. Studzić najpierw w formie, a następnie przenieść na kratkę.\n\n9. Przed podaniem ciasto można oprószyć cukrem pudrem.\n\n10. Można również upiec muffinki, wykładając ciasto do foremek z papilotkami.\n\n11. Czas pieczenia wyniesie 20-25 minut.\n\n12. Udanych wypieków!",
+      "porcje": 8,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 50,
+      "totalTimeMinutes": 70,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "ciasta",
+        "wypieki"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:53:17",
+      "dataEdycji": "2026-03-11T07:57:06",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 300,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "proszek do pieczenia",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 0.5,
+          "jednostka": "łyżeczka",
+          "nazwa": "soda",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "jajka",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "jogurt grecki",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 100,
+          "jednostka": "ml",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 0.66,
+          "jednostka": "szklanka",
+          "nazwa": "cukier",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 2,
+          "jednostka": "szklanka",
+          "nazwa": "rabarbar",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 80,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 10,
+          "ilosc": 80,
+          "jednostka": "g",
+          "nazwa": "cukier na kruszonkę",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R077",
+      "nazwa": "Filet w sezamie z kaszą, szparagami i suszonymi pomidorami",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Mięso pokroić w plastry, przyprawić solą i pieprzem, otoczyć w sezamie.\n\n2. Ugotować kaszę, odcedzoną i ciepłą wymieszać z posiekanymi suszonymi pomidorami.\n\n3. Na oleju poddusić posiekaną cebulę, przez ok. 2 minuty.\n\n4. Następnie dodać ją do kaszy z pomidorami i wymieszać.\n\n5. Na patelni po duszeniu cebuli usmażyć kurczaka w sezamie.\n\n6. Fasolkę ugotować.\n\n7. Filety podawać z kaszą i fasolką.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T16:32:33",
+      "dataEdycji": "2026-03-10T10:14:55",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 400,
+          "jednostka": "g",
+          "nazwa": "filet z kurczaka",
+          "notatka": null,
+          "kategoria": "Mięso"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "sezam",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 150,
+          "jednostka": "g",
+          "nazwa": "kasza",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "pomidory suszone",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "fasolka szparagowa",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R078",
+      "nazwa": "Kalafior zapiekany z pomidorem i cebulą",
+      "kategoria": "Dania główne",
+      "instrukcje": "1. Do naczynia żaroodpornego wlać olej i wrzucić kalafiora.\n\n2. Składniki wymieszać.\n\n3. Następnie dodać pokrojoną wędlinę, pomidora i cebulę.\n\n4. Zapiekankę piec w piekarniku nagrzanym do 200 stopni C ok. 8 minut.\n\n5. Zapiekankę podawać z pieczywem.",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne",
+        "warzywa"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:25:23",
+      "dataEdycji": "2026-03-10T14:16:33",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "kalafior",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "pomidor",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "wędliny",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "olej",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R079",
+      "nazwa": "Pierogi ruskie",
+      "kategoria": "Dania główne",
+      "instrukcje": "Przygotowujemy ciasto na pierogi z podwójnej ilości składników. \n\nPrzygotowujemy nadzienie: obieramy i płuczemy ziemniaki, wkładamy do garnka, dodajemy sól, przykrywamy zimną wodą i zagotowujemy. Gotujemy całość pod uchyloną przykrywą ok. 30 minut. Odcedźamy, wkładamy na powrót do garnka, a gorące ziemniaki roztłukujemy tłuczkiem aż do uzyskania gładkiej masy bez grudek. Na koniec studzimy ziemniaki i odparowujemy.\n\nNastępnie kruszymy ser, rozgniatamy go widelcem lub praską. Mieszamy go z ziemniakami, a całość doprawiamy solą i pieprzem. Kroimy cebulę w kostkę i szklimy na maśle, dodajemy do nadzienia, mieszamy. \n\nW dalszej kolejności szklanką wycinamy kółeczka z ciasta, a na środek nakładamy po pełnej łyżce przygotowanego wcześniej farszu. Składamy ciasto na pół, zlepiamy dokładnie brzegi (ostrożnie, by nadzienie nie znalazło się w miejscu sklejenia). Gotowe pierogi układamy na blacie posypanym mąką. Przykrywamy je czymś na czas gotowania, aby nie obeschły. \n\nGotujemy pierogi w dużym garnku z osoloną wodą (można też dodać łyżkę oleju lub masła) do czasu aż wypłyną na powierzchnię. Pierogi wyławiamy łyżką cedzakową. Gotowe pierogi podajemy kwaśną śmietaną, roztopionym masłem lub smażonym pokrojonym boczkiem (skwarkami).",
+      "porcje": 4,
+      "prepTimeMinutes": 60,
+      "cookTimeMinutes": 20,
+      "totalTimeMinutes": 80,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "dania główne"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T09:15:20",
+      "dataEdycji": "2026-02-25T15:09:44",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "mąka",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 250,
+          "jednostka": "g",
+          "nazwa": "twaróg",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "masło",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R080",
+      "nazwa": "Koktajl owocowy",
+      "kategoria": "Napoje",
+      "instrukcje": "Wszystko zmiksować dokładnie.",
+      "porcje": 2,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "napoje"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-03-12T20:22:12",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "banan",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "owoce",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "jogurt",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R081",
+      "nazwa": "Owsianka na mleku z jabłkiem i orzechami",
+      "kategoria": "Śniadania",
+      "instrukcje": "1. Siemię lniane zmielić w młynku.\n\n2. Płatki ugotować na mleku.\n\n3. Owsiankę wymieszać z pokrojon",
+      "porcje": 2,
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 10,
+      "totalTimeMinutes": 15,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:12:07",
+      "dataEdycji": "2026-03-10T13:45:36",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "płatki owsiane",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 200,
+          "jednostka": "ml",
+          "nazwa": "mleko",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jabłko",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 20,
+          "jednostka": "g",
+          "nazwa": "orzechy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "siemię lniane",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R082",
+      "nazwa": "Jogurt naturalny z jabłkiem i orzechami",
+      "kategoria": "Śniadania",
+      "instrukcje": "Jogurt podawać z jabłkiem i orzechami.",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:13:35",
+      "dataEdycji": "2026-03-10T14:11:38",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 200,
+          "jednostka": "g",
+          "nazwa": "jogurt naturalny",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "jabłko",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 15,
+          "jednostka": "g",
+          "nazwa": "orzechy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R083",
+      "nazwa": "Napar jabłkowy",
+      "kategoria": "Napoje",
+      "instrukcje": "1. Przygotowanie: 1 Pokrój jabłka w plasterki, wrzuć do garnka razem z laskę cynamonu, goździkami i anyżem oraz zalej 1 litrem wody.\n\n2. Doprowadź do wrzenia i gotuj na wolnym ogniu 15 minut.\n\n3. Odcedź napar i dodaj miodu.",
+      "porcje": 2,
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 15,
+      "totalTimeMinutes": 20,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "napoje"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:53:38",
+      "dataEdycji": "2026-03-11T07:58:17",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "jabłka",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "laska cynamonu",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "goździki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "anyż",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "miód",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        }
+      ]
+    },
+    {
+      "id": "R084",
+      "nazwa": "Kanapki szwedzkie",
+      "kategoria": "Śniadania",
+      "instrukcje": "Pieczywo posmarować ser",
+      "porcje": 1,
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "totalTimeMinutes": 10,
+      "rating": 0.0,
+      "ulubiony": true,
+      "tagi": [
+        "śniadania",
+        "szybkie"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T17:13:16",
+      "dataEdycji": "2026-03-10T14:10:58",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pieczywo",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 50,
+          "jednostka": "g",
+          "nazwa": "ser",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        }
+      ]
+    },
+    {
+      "id": "R085",
+      "nazwa": "Barszcz Ukraiński",
+      "kategoria": "Zupy",
+      "instrukcje": "Umyć porcję rosołową. Zdjąć z niej skórę, jeśli bulion ma nie być zbyt tłusty. Włożyć mięso do garnka, zalać ok. 2 l wody i gotujemy. Pokroić marchewkę i pietruszkę w kostkę lub paski.\n\nKiedy mięso zacznie wrzeć, zmniejszyć ogień i dodać do niego marchew, pietruszkę, selera, por, ziele angielskie, liście laurowe, gotować na małym ogniu ok. godzinę. \n\nUmyć buraki i gotować w osolonej wodzie, aż będą miękkie. Kiedy buraki przestygną obrać je ze skóry, a następnie zetrzeć na dużych oczkach tarki.\n\nPosiekać kapustę i zagotować w lekko osobnej wodzie. Przecedzić bulion, oddzielić mięso od kostki i z powrotem dodać do bulionu.\n\nZiemniaki obrać i pokroić w kostkę, a następnie dodać do bulionu i gotować ok 15min. \n\nPod koniec gotowania bulionu dodać do niego kapustę.\n\nObrać cebulę i pokroić ją w kostkę, a następnie poddusić na maśle na rozgrzanej patelni. Do cebuli dodać buraki i sos pomidorowy. Wszystko podsmażyć, mieszając co chwilę.\n\nZasmażkę oraz fasolkę z puszki dodać do bulionu. Wszystko gotować przez chwilę.\n\nBarszcz ukraiński doprawić do smaku i podawać od razu po zdjęciu z ognia.",
+      "porcje": 6,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 60,
+      "totalTimeMinutes": 80,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "zupy"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T09:22:23",
+      "dataEdycji": "2026-09-28T19:21:07",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "porcja rosołowa",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "pietruszka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 2,
+          "jednostka": "szt",
+          "nazwa": "marchew",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "seler",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "por",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 3,
+          "jednostka": "szt",
+          "nazwa": "ziemniaki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 500,
+          "jednostka": "g",
+          "nazwa": "buraki",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 8,
+          "ilosc": 1,
+          "jednostka": "szt",
+          "nazwa": "cebula",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 9,
+          "ilosc": 1,
+          "jednostka": "puszka",
+          "nazwa": "fasola",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 10,
+          "ilosc": 0.5,
+          "jednostka": "szklanka",
+          "nazwa": "sos pomidorowy",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    },
+    {
+      "id": "R086",
+      "nazwa": "Sałatka z botwinki z fetą",
+      "kategoria": "Sałatki",
+      "instrukcje": "1. Zagotować wodę do ugotowania buraczków.\n\n2. Botwinkę umyć, odciąć buraczki, wrzucić buraczki do wrzątku i gotować aż będą jędrne (ok. 15 minut, w zależności od wielkości).\n\n3. Wyłowić z wody, obrać i pokroić na plasterki. • Wybrać najmniejsze i średnie (najbardziej jędrne i ładne) liście botwinki i posiekać je wraz z łodyżkami na desce.\n\n4. Resztę liści można wykorzystać do surówki z botwinki lub do zupy itp. • Do dwóch salaterek rozłożyć liście rukoli i botwinki, przemieszać.\n\n5. Dodać pokrojone buraczki oraz pokrojony w kosteczkę ser. • Wyłuskać granat i posypać po sałatce.\n\n6. Wymieszać składniki sosu i polać po sałatce. • Do sałatki można też dodać orzechy włoskie (lekko podprażone i posiekane).",
+      "porcje": 4,
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "totalTimeMinutes": 50,
+      "rating": 0.0,
+      "ulubiony": false,
+      "tagi": [
+        "sałatki",
+        "warzywa"
+      ],
+      "pdfFileName": null,
+      "dataDodania": "2026-02-25T18:55:01",
+      "dataEdycji": "2026-03-11T08:13:50",
+      "aktywny": true,
+      "skladniki": [
+        {
+          "kolejnosc": 1,
+          "ilosc": 1,
+          "jednostka": "pęczek",
+          "nazwa": "botwinka",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 2,
+          "ilosc": 1,
+          "jednostka": "garść",
+          "nazwa": "rukola",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        },
+        {
+          "kolejnosc": 3,
+          "ilosc": 100,
+          "jednostka": "g",
+          "nazwa": "ser feta",
+          "notatka": null,
+          "kategoria": "Nabiał"
+        },
+        {
+          "kolejnosc": 4,
+          "ilosc": 0.5,
+          "jednostka": "szt",
+          "nazwa": "granat",
+          "notatka": null,
+          "kategoria": "Owoce"
+        },
+        {
+          "kolejnosc": 5,
+          "ilosc": 2,
+          "jednostka": "łyżka",
+          "nazwa": "oliwa",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 6,
+          "ilosc": 1,
+          "jednostka": "łyżka",
+          "nazwa": "miód",
+          "notatka": null,
+          "kategoria": "Sypkie"
+        },
+        {
+          "kolejnosc": 7,
+          "ilosc": 1,
+          "jednostka": "łyżeczka",
+          "nazwa": "musztarda",
+          "notatka": null,
+          "kategoria": "Warzywa"
+        }
+      ]
+    }
+  ]
+}

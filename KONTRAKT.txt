@@ -1,0 +1,86 @@
+KONTRAKT DANYCH — Moja Kuchnia
+Kurator (PC) pisze. Flutter (tablet/APK) tylko czyta.
+====================================================
+
+ŹRÓDŁO PRAWDY
+  Kurator publikuje ZAWSZE dwa CSV (to wczyta obecny Flutter):
+    przepisy.csv
+    skladniki.csv
+  JSON (kuchnia.json) jest wygodny wewnątrz kuratora.
+  Odbiornik na razie NIE wymaga JSON — eksportuj CSV 1:1 z JSON.
+
+ID
+  String stały: R001, R002 … albo UUID.
+  NIGDY nie zmieniaj ID przy zmianie nazwy.
+  NIGDY nie reuse ID skasowanego dania.
+  Isar na tablecie i tak nada własny numer — CSV-id służy tylko do łączenia składników.
+
+PRZEPISY.CSV — kolumny (kolejność ważna)
+  id                  tekst, unikalny
+  nazwa               tekst, unikalna w praktyce
+  kategoria           jedna z listy niżej
+  instrukcje          tekst; nowe linie w cudzysłowie
+  porcje              liczba całkowita
+  prepTimeMinutes     liczba lub puste
+  cookTimeMinutes     liczba lub puste
+  totalTimeMinutes    liczba lub puste
+  rating              0–5, kropka: 0 albo 4.5
+  ulubiony            0 albo 1
+  tagi                "a,b,c" bez spacji po przecinku albo ze spacją (trim)
+  pdfFileName         tylko nazwa pliku, np. quiche.pdf (nie pełna ścieżka)
+  dataDodania         ISO-8601: 2026-03-12T20:17:39
+  dataEdycji          ISO-8601 albo puste
+  aktywny             1 = pokazuj, 0 = ukryj u odbiornika (nie kasuj wiersza)
+
+SKLADNIKI.CSV — kolumny
+  przepisId           = przepisy.id
+  kolejnosc           1,2,3…
+  ilosc               liczba (50, 0.5, 1.5) albo puste = „ile trzeba”
+  jednostka           g|kg|ml|l|szt|łyżka|łyżeczka|szklanka|pęczek|opak|dag|szczypta|garść
+  nazwa               tekst, małe litery na starcie zdania
+  notatka             opcjonalnie: "zimne", "do sosu"
+  kategoria           Nabiał|Mięso|Wędliny|Warzywa|Owoce|Sypkie|Napoje|Inne
+                      (półka w sklepie, NIE kategoria dania)
+
+KATEGORIE DANIA (przepisy.kategoria) — tylko te:
+  Śniadania
+  Zupy
+  Dania główne
+  Zapiekanki
+  Sałatki
+  Ciasta
+  Pieczywo
+  Napoje
+  Przekąski
+  Sosy
+  Inne            (ostateczność)
+
+CSV — zasady zapisu
+  UTF-8, przecinek, CRLF albo LF
+  Pola z przecinkiem, cudzysłowem lub nową linią → w "..."
+  Cudzysłów w tekście → ""
+  shouldParseNumbers: odbiornik i tak robi toString() na ID
+  Nagłówek obowiązkowy, dokładnie te nazwy
+
+JSON (opcjonalnie, kurator)
+  Patrz kuchnia.json
+  1 przepis = obiekt + tablica skladniki
+  aktywny: true/false  (w CSV: 1/0)
+  ulubiony: true/false (w CSV: 1/0)
+  ilosc: number albo null
+
+PUBLIKACJA
+  Folder / repo:
+    przepisy.csv
+    skladniki.csv
+    manifest.json      (data + nazwy plików)
+    kuchnia.json       (opcjonalnie)
+    pdfs/quiche.pdf    (opcjonalnie, nazwa = pdfFileName)
+  Flutter: pobierz CSV → nadpisz cache Isar według id.
+  Lista zakupów NIE wchodzi do tych plików.
+
+CZEGO NIE ROBIĆ
+  Nie wysyłaj library.isar ani przepisy.isar
+  Nie numeruj id od 1 od nowa przy każdym eksporcie
+  Nie trzymaj składników tylko w treści instrukcji
+  Nie mieszaj średnika i przecinka jako separatora

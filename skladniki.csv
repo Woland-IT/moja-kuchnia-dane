@@ -1,0 +1,484 @@
+przepisId,kolejnosc,ilosc,jednostka,nazwa,notatka,kategoria
+R001,1,50,g,płatki owsiane,,Sypkie
+R001,2,200,ml,mleko,,Nabiał
+R002,1,4,szt,parówki,,Mięso
+R002,2,200,g,pieczarki,,Warzywa
+R002,3,1,szt,cebula,,Warzywa
+R002,4,150,g,groszek konserwowy,,Nabiał
+R002,5,2,łyżka,koncentrat pomidorowy,,Warzywa
+R002,6,100,ml,śmietana,,Nabiał
+R002,7,1,łyżka,mąka,,Sypkie
+R002,8,50,g,ser żółty,,Nabiał
+R003,1,150,g,masło,,Nabiał
+R003,2,150,g,cukier,,Sypkie
+R003,3,3,szt,jajka,,Nabiał
+R003,4,250,g,mąka,,Sypkie
+R003,5,2,łyżeczka,proszek do pieczenia,,Sypkie
+R003,6,200,g,jogurt naturalny,,Nabiał
+R003,7,300,g,truskawki,,Owoce
+R003,8,2,łyżka,bułka tarta,,Warzywa
+R004,1,250,g,mąka,,Sypkie
+R004,2,125,g,masło,,Nabiał
+R004,3,0.5,łyżeczka,sól,,Sypkie
+R004,4,,,zimna woda,,Sypkie
+R004,5,2,szt,pierś z kurczaka,,Mięso
+R004,6,1,opak,szpinak mrożony,,Warzywa
+R004,7,3,szt,jajka,,Nabiał
+R004,8,0.5,szklanka,mleko,,Nabiał
+R004,9,3,łyżka,śmietana kwaśna,,Nabiał
+R004,10,200,g,serek twarogowy,,Nabiał
+R004,11,100,g,ser żółty,,Nabiał
+R005,1,800,g,ziemniaki,,Warzywa
+R005,2,1,szt,jajko,,Nabiał
+R005,3,200,ml,śmietana,,Nabiał
+R005,4,100,g,szynka,,Wędliny
+R005,5,150,g,ser żółty,,Nabiał
+R005,6,2,szt,pomidor,,Warzywa
+R005,7,1,szt,cebula,,Warzywa
+R005,8,1,szt,ogórek,,Warzywa
+R005,9,1,szt,papryka,,Warzywa
+R006,1,3,szt,jajka,,Nabiał
+R006,2,1,szt,cebula,,Warzywa
+R006,3,10,g,masło,,Nabiał
+R006,4,2,szt,pieczywo,,Warzywa
+R007,1,400,g,pierś z indyka,,Mięso
+R007,2,150,g,kasza pęczak,,Sypkie
+R007,3,2,szt,marchew,,Warzywa
+R007,4,1,łyżeczka,olej,,Sypkie
+R008,1,1,szklanka,cukier,,Sypkie
+R008,2,4,szt,jajka,,Nabiał
+R008,3,2,szklanka,mąka,,Sypkie
+R008,4,1,łyżeczka,soda,,Sypkie
+R008,5,1,łyżeczka,proszek do pieczenia,,Sypkie
+R008,6,3,łyżeczka,cynamon,,Sypkie
+R008,7,5,szt,jabłka,,Owoce
+R008,8,0.66,szklanka,olej,,Sypkie
+R008,9,100,g,orzechy włoskie,,Warzywa
+R008,10,50,g,migdały,,Warzywa
+R009,1,800,g,ziemniaki,,Warzywa
+R009,2,1,szt,cebula,,Warzywa
+R009,3,1,szt,jajko,,Nabiał
+R009,4,2,łyżka,mąka,,Sypkie
+R010,1,1,szt,brokuł,,Warzywa
+R010,2,150,g,jogurt naturalny,,Nabiał
+R010,3,1,ząbek,czosnek,,Warzywa
+R010,4,10,szt,pomidorki koktajlowe,,Warzywa
+R010,5,2,łyżka,pestki dyni,,Warzywa
+R011,1,150,g,ryż,,Sypkie
+R011,2,400,g,filet z kurczaka,,Mięso
+R011,3,2,łyżka,przyprawa gyros,,Sypkie
+R011,4,1,szt,cebula,,Warzywa
+R011,5,1,szt,ogórek,,Warzywa
+R011,6,1,szt,papryka,,Warzywa
+R011,7,1,szt,pomidor,,Warzywa
+R011,8,1,puszka,kukurydza,,Warzywa
+R011,9,150,g,ser żółty,,Nabiał
+R011,10,100,ml,śmietana,,Nabiał
+R011,11,2,łyżka,majonez,,Warzywa
+R011,12,2,łyżka,ketchup,,Warzywa
+R012,1,2,szklanka,mąka,,Sypkie
+R012,2,1,szklanka,cukier,,Sypkie
+R012,3,2,łyżeczka,proszek do pieczenia,,Sypkie
+R012,4,1,łyżeczka,soda,,Sypkie
+R012,5,2,szt,jajka,,Nabiał
+R012,6,200,ml,maślanka,,Warzywa
+R012,7,300,g,puree z dyni,,Warzywa
+R012,8,80,g,masło,,Nabiał
+R013,1,1,puszka,fasola czerwona,,Warzywa
+R013,2,1,puszka,tuńczyk,,Mięso
+R013,3,150,g,jogurt naturalny,,Nabiał
+R013,4,1,szt,cebula,,Warzywa
+R013,5,2,szt,pieczywo,,Warzywa
+R014,1,1200,g,ziemniaki,,Warzywa
+R014,2,200,g,ser Gruyère,,Nabiał
+R014,3,150,g,crème fraîche,,Warzywa
+R014,4,,,gałka muszkatołowa,,Warzywa
+R014,5,20,g,masło,,Nabiał
+R015,1,200,g,jogurt naturalny,,Nabiał
+R015,2,1,szt,banan,,Owoce
+R015,3,15,g,orzechy,,Warzywa
+R015,4,10,g,otręby,,Warzywa
+R016,1,200,g,jogurt naturalny,,Nabiał
+R016,2,50,g,borówki,,Owoce
+R016,3,15,g,orzechy,,Warzywa
+R017,1,4,szt,jajka,,Nabiał
+R017,2,200,g,serek wiejski,,Nabiał
+R017,3,200,ml,śmietana,,Nabiał
+R017,4,4,łyżka,mąka,,Sypkie
+R017,5,2,łyżka,olej,,Sypkie
+R017,6,2,łyżka,cukier,,Sypkie
+R018,1,500,g,mąka,,Sypkie
+R018,2,25,g,drożdże,,Sypkie
+R018,3,1,łyżka,cukier,,Sypkie
+R018,4,200,ml,śmietana,,Nabiał
+R018,5,80,g,masło,,Nabiał
+R019,1,2.5,szklanka,mąka,,Sypkie
+R019,2,0.5,szklanka,kakao,,Sypkie
+R019,3,1,łyżka,przyprawa do piernika,,Sypkie
+R019,4,2,łyżeczka,proszek do pieczenia,,Sypkie
+R019,5,1,łyżeczka,soda,,Sypkie
+R019,6,1,łyżeczka,cynamon,,Sypkie
+R019,7,0.5,kostka,masło,,Nabiał
+R019,8,0.5,szklanka,cukier,,Sypkie
+R019,9,0.5,szklanka,miód,,Sypkie
+R019,10,1,szt,jajko,,Nabiał
+R019,11,1,szklanka,woda,,Sypkie
+R019,12,3,łyżka,powidła śliwkowe,,Owoce
+R020,1,500,g,mąka,,Sypkie
+R020,2,7,g,drożdże,,Sypkie
+R020,3,300,ml,woda,,Sypkie
+R020,4,1,łyżeczka,sól,,Sypkie
+R021,1,2,szt,pieczywo,,Warzywa
+R021,2,50,g,wędliny,,Warzywa
+R021,3,0.5,szt,papryka,,Warzywa
+R021,4,1,szt,pomidor,,Warzywa
+R022,1,800,g,schab,,Mięso
+R022,2,600,g,ziemniaki,,Warzywa
+R022,3,300,g,kapusta kiszona,,Warzywa
+R022,4,2,łyżka,olej,,Sypkie
+R023,1,800,g,ziemniaki,,Warzywa
+R023,2,1,szt,cebula,,Warzywa
+R023,3,2,ząbek,czosnek,,Warzywa
+R023,4,300,g,pieczarki,,Warzywa
+R023,5,1,szt,bakłażan,,Warzywa
+R023,6,200,g,ser żółty,,Nabiał
+R024,1,2,szt,pieczywo,,Warzywa
+R024,2,50,g,wędliny,,Warzywa
+R024,3,1,szt,jajko,,Nabiał
+R024,4,0.5,szt,ogórek,,Warzywa
+R024,5,3,szt,rzodkiewka,,Warzywa
+R025,1,400,g,rabarbar,,Warzywa
+R025,2,3,szt,jajka,,Nabiał
+R025,3,150,g,cukier,,Sypkie
+R025,4,200,g,mąka,,Sypkie
+R025,5,2,łyżeczka,proszek do pieczenia,,Sypkie
+R025,6,2,łyżka,budyń,,Warzywa
+R025,7,50,g,masło,,Nabiał
+R026,1,50,g,płatki owsiane,,Sypkie
+R026,2,30,g,orzechy,,Warzywa
+R026,3,50,g,borówki,,Owoce
+R027,1,1,szt,ogórek,,Warzywa
+R027,2,2,szt,pomidor,,Warzywa
+R027,3,150,g,ser feta,,Nabiał
+R027,4,50,g,oliwki,,Sypkie
+R027,5,1,szt,sałata,,Warzywa
+R027,6,3,łyżka,olej,,Sypkie
+R028,1,250,g,makaron rurki,,Sypkie
+R028,2,1,pęczek,szparagi,,Warzywa
+R029,1,400,g,mięso mielone,,Mięso
+R029,2,1,szt,jajko,,Nabiał
+R029,3,1,szt,cebula,,Warzywa
+R029,4,1,szt,bułka,,Warzywa
+R029,5,400,g,ziemniaki,,Warzywa
+R029,6,2,szt,marchew,,Warzywa
+R029,7,1,puszka,kukurydza,,Warzywa
+R029,8,1,l,bulion,,Warzywa
+R029,9,100,ml,śmietana,,Nabiał
+R029,10,1,pęczek,koperek,,Warzywa
+R030,1,1,szklanka,mąka,,Sypkie
+R030,2,1,kostka,masło,,Nabiał
+R030,3,0.5,szklanka,cukier puder,,Sypkie
+R030,4,0.5,łyżeczka,proszek do pieczenia,,Sypkie
+R030,5,0.5,łyżeczka,soda,,Sypkie
+R030,6,1,szt,jajko,,Nabiał
+R030,7,3,szklanka,płatki owsiane,,Sypkie
+R030,8,0.5,szklanka,żurawina suszona,,Owoce
+R031,1,200,g,twaróg,,Nabiał
+R031,2,4,szt,rzodkiewka,,Warzywa
+R031,3,1,pęczek,szczypiorek,,Warzywa
+R032,1,4,szt,tosty,,Warzywa
+R032,2,1,szt,cebula,,Warzywa
+R032,3,100,g,mozzarella,,Nabiał
+R032,4,50,g,wędliny,,Warzywa
+R033,1,200,g,jogurt naturalny,,Nabiał
+R033,2,50,g,truskawki,,Owoce
+R033,3,10,g,otręby,,Warzywa
+R033,4,15,g,orzechy,,Warzywa
+R034,1,150,g,soczewica,,Warzywa
+R034,2,3,szt,marchew,,Warzywa
+R034,3,1,szt,cebula,,Warzywa
+R034,4,2,łyżka,pestki dyni,,Warzywa
+R034,5,800,ml,bulion,,Warzywa
+R035,1,50,g,liście jarmużu,,Warzywa
+R035,2,70,g,awokado,,Owoce
+R035,3,150,g,jabłko,,Owoce
+R035,4,100,g,pomarańcza,,Owoce
+R035,5,250,ml,woda kokosowa,,Sypkie
+R035,6,25,g,miód,,Sypkie
+R035,7,10,g,siemię lniane,,Warzywa
+R035,8,,,imbir,,Warzywa
+R035,9,,,sok z cytryny,,Owoce
+R036,1,4,szt,jajka,,Nabiał
+R036,2,2,łyżka,majonez,,Warzywa
+R036,3,2,łyżka,jogurt naturalny,,Nabiał
+R036,4,1.5,łyżka,musztarda,,Warzywa
+R036,5,0.5,pęczek,szczypiorek,,Warzywa
+R036,6,8,szt,oliwki,,Sypkie
+R036,7,0.5,szt,papryka,,Warzywa
+R036,8,1,szt,ogórek konserwowy,,Nabiał
+R037,1,400,g,spaghetti,,Sypkie
+R037,2,400,g,orzechy włoskie,,Warzywa
+R037,3,4,łyżka,pesto,,Sypkie
+R037,4,2,ząbek,czosnek,,Warzywa
+R037,5,3,łyżka,oliwa,,Sypkie
+R037,6,50,g,parmezan,,Warzywa
+R038,1,2,szt,pieczywo,,Warzywa
+R038,2,50,g,wędliny,,Warzywa
+R038,3,1,szt,pomidor,,Warzywa
+R038,4,3,szt,rzodkiewka,,Warzywa
+R038,5,,,szczypiorek,,Warzywa
+R039,1,400,g,marchew,,Warzywa
+R039,2,400,g,mąka tortowa,,Sypkie
+R039,3,400,g,cukier brązowy,,Sypkie
+R039,4,450,ml,olej,,Sypkie
+R039,5,50,g,wiórki kokosowe,,Warzywa
+R039,6,6,szt,jajka,,Nabiał
+R039,7,2,łyżeczka,proszek do pieczenia,,Sypkie
+R039,8,1.5,łyżeczka,soda,,Sypkie
+R039,9,2,łyżeczka,cynamon,,Sypkie
+R039,10,200,g,serek śmietankowy,,Nabiał
+R039,11,1,szt,cytryna,,Owoce
+R040,1,0.5,szklanka,żurawina,,Owoce
+R040,2,1,szt,cytryna,,Owoce
+R040,3,1,szt,herbata zielona,,Warzywa
+R040,4,2,łyżka,miód,,Sypkie
+R041,1,250,g,mąka,,Sypkie
+R041,2,150,g,cukier,,Sypkie
+R041,3,3,szt,jajka,,Nabiał
+R041,4,100,g,masło,,Nabiał
+R042,1,1,pęczek,szparagi,,Warzywa
+R042,2,1,szt,cebula,,Warzywa
+R042,3,800,ml,bulion,,Warzywa
+R042,4,100,ml,śmietana,,Nabiał
+R043,1,200,g,masło,,Nabiał
+R043,2,200,g,cukier puder,,Sypkie
+R043,3,4,szt,jajka,,Nabiał
+R043,4,250,g,mąka,,Sypkie
+R043,5,1,łyżeczka,proszek do pieczenia,,Sypkie
+R043,6,150,g,mąka na kruszonkę,,Sypkie
+R043,7,80,g,masło na kruszonkę,,Nabiał
+R043,8,100,g,cukier na kruszonkę,,Sypkie
+R043,9,600,g,rabarbar,,Warzywa
+R044,1,4,szt,papryka,,Warzywa
+R044,2,300,g,mięso mielone,,Mięso
+R044,3,1,szt,cebula,,Warzywa
+R044,4,100,g,ryż,,Sypkie
+R045,1,500,g,dorsz,,Mięso
+R045,2,3,szt,pomidor,,Warzywa
+R045,3,1,szt,cebula,,Warzywa
+R045,4,2,łyżka,olej,,Sypkie
+R046,1,2,szt,pieczywo,,Warzywa
+R046,2,1,puszka,tuńczyk,,Mięso
+R046,3,50,g,ser biały,,Nabiał
+R046,4,0.5,szt,ogórek kiszony,,Warzywa
+R046,5,1,szt,pomidor,,Warzywa
+R047,1,80,g,kasza jaglana,,Sypkie
+R047,2,200,ml,mleko,,Nabiał
+R047,3,1,łyżka,miód,,Sypkie
+R048,1,400,g,mąka,,Sypkie
+R048,2,200,ml,kefir,,Nabiał
+R048,3,300,g,farsz,,Warzywa
+R049,1,2,szt,jabłko,,Owoce
+R049,2,200,ml,jogurt,,Nabiał
+R049,3,1,łyżka,miód,,Sypkie
+R050,1,1,szt,banan,,Owoce
+R050,2,100,g,owoce,,Warzywa
+R050,3,200,ml,mleko,,Nabiał
+R051,1,5,szt,plastry wołowiny,,Mięso
+R051,2,2,łyżeczka,musztarda,,Warzywa
+R051,3,2,szt,ogórek kiszony,,Warzywa
+R051,4,0.5,szt,papryka,,Warzywa
+R051,5,2.5,szklanka,rosół,,Warzywa
+R051,6,200,g,grzyby,,Warzywa
+R051,7,0.3,szt,cebula,,Warzywa
+R051,8,2,ząbek,czosnek,,Warzywa
+R052,1,500,g,polędwiczki wieprzowe,,Mięso
+R052,2,2,łyżka,olej,,Sypkie
+R052,3,,,przyprawy,,Sypkie
+R053,1,2,szt,bakłażan,,Warzywa
+R053,2,1,szklanka,kasza jaglana,,Sypkie
+R053,3,2,szt,cebula dymka,,Warzywa
+R053,4,2,ząbek,czosnek,,Warzywa
+R053,5,1,szt,papryka żółta,,Warzywa
+R053,6,10,szt,pomidory suszone,,Warzywa
+R053,7,0.5,szklanka,ser żółty,,Nabiał
+R054,1,300,g,mąka,,Sypkie
+R054,2,7,g,drożdże,,Sypkie
+R054,3,150,g,ser żółty,,Nabiał
+R054,4,150,ml,passata,,Warzywa
+R054,5,,,dodatki do pizzy,,Warzywa
+R055,1,600,g,schab,,Mięso
+R055,2,3,łyżka,olej,,Sypkie
+R055,3,1,szt,cebula,,Warzywa
+R055,4,500,ml,bulion,,Warzywa
+R055,5,1,łyżeczka,papryka mielona,,Warzywa
+R055,6,2,szt,liść laurowy,,Warzywa
+R055,7,2,łyżka,masło,,Nabiał
+R055,8,2,łyżka,mąka,,Sypkie
+R056,1,150,g,kasza pęczak,,Sypkie
+R056,2,1,szt,cukinia,,Warzywa
+R056,3,1,szt,papryka,,Warzywa
+R056,4,1,szt,cebula,,Warzywa
+R056,5,2,szt,pomidor,,Warzywa
+R057,1,500,ml,żurek,,Warzywa
+R057,2,2,szt,jajka,,Nabiał
+R057,3,200,g,kiełbasa z indyka,,Mięso
+R057,4,1,szt,kiełbasa,,Mięso
+R058,1,500,g,pierś z indyka,,Mięso
+R058,2,3,łyżka,rodzynki,,Warzywa
+R058,3,5,szt,śliwki suszone,,Owoce
+R058,4,2,szt,cebula,,Warzywa
+R058,5,2,ząbek,czosnek,,Warzywa
+R058,6,1,szt,papryka,,Warzywa
+R058,7,2,szt,marchew,,Warzywa
+R058,8,3,łyżka,jogurt naturalny,,Nabiał
+R059,1,100,g,mąka,,Sypkie
+R059,2,0.5,szklanka,mleko,,Nabiał
+R059,3,4,szt,jajka,,Nabiał
+R059,4,2,szt,cukinia,,Warzywa
+R059,5,100,g,rukola,,Warzywa
+R059,6,100,g,mozzarella,,Nabiał
+R059,7,50,g,ser gouda,,Nabiał
+R059,8,1,szklanka,śmietana 12%,,Nabiał
+R059,9,4,łyżka,ajwar,,Warzywa
+R060,1,1,szt,kaczka,,Mięso
+R060,2,2,szt,jabłka,,Owoce
+R060,3,10,szt,śliwki wędzone,,Owoce
+R060,4,3,gałązka,tymianek,,Warzywa
+R060,5,6,szt,goździki,,Warzywa
+R061,1,30,g,borowiki suszone,,Warzywa
+R061,2,150,g,śliwki suszone,,Owoce
+R061,3,200,ml,wino czerwone,,Warzywa
+R061,4,300,g,wołowina gulaszowa,,Mięso
+R061,5,500,g,kapusta kiszona,,Warzywa
+R061,6,400,g,kapusta biała,,Warzywa
+R061,7,100,g,kiełbasa,,Mięso
+R061,8,1,szt,jabłko,,Owoce
+R062,1,2,szt,pieczywo,,Warzywa
+R062,2,50,g,wędliny,,Warzywa
+R062,3,0.5,szt,papryka,,Warzywa
+R062,4,0.5,szt,ogórek,,Warzywa
+R063,1,200,g,jogurt naturalny,,Nabiał
+R063,2,2,szt,śliwki,,Owoce
+R063,3,10,g,otręby,,Warzywa
+R064,1,300,g,mąka,,Sypkie
+R064,2,150,g,ser,,Nabiał
+R064,3,150,ml,sos pomidorowy,,Warzywa
+R065,1,2,szt,cukinia,,Warzywa
+R065,2,300,g,mięso mielone,,Mięso
+R065,3,1,szt,cebula,,Warzywa
+R065,4,100,g,ser,,Nabiał
+R066,1,400,g,młoda kapusta,,Warzywa
+R066,2,300,g,pierś z kurczaka,,Mięso
+R066,3,150,g,kasza gryczana,,Sypkie
+R066,4,1,pęczek,koperek,,Warzywa
+R067,1,20,g,mięta świeża,,Warzywa
+R067,2,100,g,cukier,,Sypkie
+R067,3,1,szt,jajko,,Nabiał
+R067,4,100,g,masło,,Nabiał
+R067,5,200,g,mąka,,Sypkie
+R067,6,2,łyżka,proszek do pieczenia,,Sypkie
+R067,7,30,g,czekolada,,Warzywa
+R068,1,2,szt,pieczywo,,Warzywa
+R068,2,50,g,wędliny,,Warzywa
+R068,3,50,g,ser biały,,Nabiał
+R068,4,1,szt,pomidor,,Warzywa
+R068,5,0.5,szt,ogórek kiszony,,Warzywa
+R069,1,250,g,mąka,,Sypkie
+R069,2,150,g,masło,,Nabiał
+R069,3,150,g,cukier,,Sypkie
+R069,4,4,szt,jabłka,,Owoce
+R069,5,3,szt,jajka,,Nabiał
+R070,1,150,g,jogurt naturalny,,Nabiał
+R070,2,1,łyżka,majonez,,Warzywa
+R070,3,1,ząbek,czosnek,,Warzywa
+R070,4,,,mięta,,Warzywa
+R071,1,1000,g,biała kiełbasa,,Mięso
+R071,2,1,szt,cebula,,Warzywa
+R071,3,0.25,szt,papryka czerwona,,Warzywa
+R071,4,0.25,szt,papryka pomarańczowa,,Owoce
+R071,5,0.5,szt,marchew,,Warzywa
+R071,6,200,g,śmietana 18%,,Nabiał
+R071,7,2,łyżka,chrzan,,Warzywa
+R071,8,4,łyżka,mleko,,Nabiał
+R071,9,1,łyżeczka,mąka,,Sypkie
+R072,1,2,szt,pomidor,,Warzywa
+R072,2,1,łyżka,siemię lniane,,Warzywa
+R072,3,200,ml,woda,,Sypkie
+R073,1,100,g,ser feta,,Nabiał
+R073,2,40,g,pomidory suszone,,Warzywa
+R073,3,2,szt,pieczywo,,Warzywa
+R073,4,,,koperek,,Warzywa
+R074,1,370,g,cukinia,,Warzywa
+R074,2,170,g,cebula,,Warzywa
+R074,3,150,g,marchew,,Warzywa
+R074,4,250,g,ziemniaki,,Warzywa
+R074,5,2,szt,jajka,,Nabiał
+R074,6,2,łyżka,skrobia ziemniaczana,,Warzywa
+R074,7,100,g,bułka tarta,,Warzywa
+R074,8,,,szczypiorek,,Warzywa
+R075,1,2,szt,pieczywo,,Warzywa
+R075,2,50,g,ser biały,,Nabiał
+R075,3,0.5,szt,ogórek,,Warzywa
+R075,4,3,szt,rzodkiewka,,Warzywa
+R076,1,300,g,mąka,,Sypkie
+R076,2,1,łyżeczka,proszek do pieczenia,,Sypkie
+R076,3,0.5,łyżeczka,soda,,Sypkie
+R076,4,2,szt,jajka,,Nabiał
+R076,5,200,ml,jogurt grecki,,Nabiał
+R076,6,100,ml,olej,,Sypkie
+R076,7,0.66,szklanka,cukier,,Sypkie
+R076,8,2,szklanka,rabarbar,,Warzywa
+R076,9,80,g,masło,,Nabiał
+R076,10,80,g,cukier na kruszonkę,,Sypkie
+R077,1,400,g,filet z kurczaka,,Mięso
+R077,2,50,g,sezam,,Warzywa
+R077,3,150,g,kasza,,Sypkie
+R077,4,100,g,pomidory suszone,,Warzywa
+R077,5,1,szt,cebula,,Warzywa
+R077,6,200,g,fasolka szparagowa,,Warzywa
+R078,1,1,szt,kalafior,,Warzywa
+R078,2,1,szt,pomidor,,Warzywa
+R078,3,1,szt,cebula,,Warzywa
+R078,4,50,g,wędliny,,Warzywa
+R078,5,2,łyżka,olej,,Sypkie
+R079,1,500,g,mąka,,Sypkie
+R079,2,500,g,ziemniaki,,Warzywa
+R079,3,250,g,twaróg,,Nabiał
+R079,4,2,szt,cebula,,Warzywa
+R079,5,50,g,masło,,Nabiał
+R080,1,1,szt,banan,,Owoce
+R080,2,100,g,owoce,,Warzywa
+R080,3,200,ml,jogurt,,Nabiał
+R081,1,50,g,płatki owsiane,,Sypkie
+R081,2,200,ml,mleko,,Nabiał
+R081,3,1,szt,jabłko,,Owoce
+R081,4,20,g,orzechy,,Warzywa
+R081,5,1,łyżka,siemię lniane,,Warzywa
+R082,1,200,g,jogurt naturalny,,Nabiał
+R082,2,1,szt,jabłko,,Owoce
+R082,3,15,g,orzechy,,Warzywa
+R083,1,3,szt,jabłka,,Owoce
+R083,2,1,szt,laska cynamonu,,Sypkie
+R083,3,2,szt,goździki,,Warzywa
+R083,4,1,szt,anyż,,Warzywa
+R083,5,1,łyżka,miód,,Sypkie
+R084,1,2,szt,pieczywo,,Warzywa
+R084,2,50,g,ser,,Nabiał
+R085,1,500,g,porcja rosołowa,,Warzywa
+R085,2,2,szt,pietruszka,,Warzywa
+R085,3,2,szt,marchew,,Warzywa
+R085,4,1,szt,seler,,Warzywa
+R085,5,1,szt,por,,Warzywa
+R085,6,3,szt,ziemniaki,,Warzywa
+R085,7,500,g,buraki,,Warzywa
+R085,8,1,szt,cebula,,Warzywa
+R085,9,1,puszka,fasola,,Warzywa
+R085,10,0.5,szklanka,sos pomidorowy,,Warzywa
+R086,1,1,pęczek,botwinka,,Warzywa
+R086,2,1,garść,rukola,,Warzywa
+R086,3,100,g,ser feta,,Nabiał
+R086,4,0.5,szt,granat,,Owoce
+R086,5,2,łyżka,oliwa,,Sypkie
+R086,6,1,łyżka,miód,,Sypkie
+R086,7,1,łyżeczka,musztarda,,Warzywa
